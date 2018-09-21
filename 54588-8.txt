@@ -1,0 +1,1843 @@
+The Project Gutenberg eBook, Bela, by Mikhail Iurevich Lermontov,
+Translated by S. L.
+
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions 
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at 
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+
+
+
+Title: Bela
+       Kaukaasialainen kertomus
+
+
+Author: Mikhail Iurevich Lermontov
+
+
+
+Release Date: April 22, 2017  [eBook #54588]
+
+Language: Finnish
+
+Character set encoding: ISO-8859-1
+
+
+***START OF THE PROJECT GUTENBERG EBOOK BELA***
+
+
+E-text prepared by Tapio Riikonen
+
+
+
+BELA
+
+Kaukaasialainen kertomus
+
+Kirj.
+
+M. LERMONTOV
+
+Suomentanut S. L.
+
+
+
+
+
+
+Helsingiss‰,
+Yrjˆ Weilin,
+1907.
+
+Osakeyhtiˆ F. Tilgmannin Kirja- Ja Kivipainossa.
+
+
+
+
+Matkustin kyytirattailla Tiflisist‰. Matkakapineita oli minulla
+pienehkˆ matkalaukku, joka oli puolillaan k‰sikirjoituksia
+matkamuistelmiin Grusiasta.
+
+Teid‰n onneksenne katosi suurin osa n‰ist‰, vaan minun onnekseni s‰ilyi
+matkalaukkuni muine tavaroineen. Tullessani Koishaur laaksoon alkoi
+aurinko jo laskea lumivuorijonon taakse. Osetiinil‰inen kyytimieheni
+kiirehti lakkaamatta hevosia, ehti‰kseen ennen pime‰n tuloa Koishaur
+vuorelle.
+
+Ihana paikka, t‰m‰ laakso. Joka puolelta ymp‰rˆiv‰t sit‰ jyrk‰t vuoret,
+punertavat kalliot, joita plataanipuut seppelˆiv‰t ja joiden huippuja
+verhoo viheri‰inen samettipeitto. Siell‰ t‰‰ll‰ n‰kee keltaisenruskeita
+kallionhalkeamia, joihin vesi on uurtanut syvennyksi‰ ristiin rastiin.
+Ja tuolla korkealla on ikuisen lumen kultainen reunus; ja alhaalla,
+hopeisena juovana v‰lkkyy kuin kiilt‰v‰ k‰‰rme Aragvavirta, syleillen
+toista nimetˆnt‰ jokea, joka kohisten syˆksyy mustan synk‰st‰ rotkosta.
+
+Saavuttuamme Koishaur vuoren juurelle, pys‰hdyimme. T‰ss‰ puuhaili
+meluten noin parikymment‰ grusialaista ja gortsia; heid‰n vieress‰‰n
+loikoili yˆtiloilleen asettunut kamelilauma. Koska maa n‰in syksyll‰ on
+iljanteinen, t‰ytyi minun ottaa h‰rki‰ vet‰m‰‰n ajopeli‰ni vuorelle.
+
+Minun t‰ytyi ottaa kuusi h‰rk‰‰ ja muutamia osetiineja. Yksi heist‰
+otti matkalaukkuni olalleen, toiset rupesivat auttamaan h‰rki‰ hoilaten
+ja huutaen.
+
+Rattaitteni j‰less‰ tulivat toiset nelj‰n h‰r‰n vet‰m‰t ajoneuvot ilman
+pienint‰k‰‰n vaikeutta, huolimatta siit‰ ett‰ ne olivat aivan t‰yteen
+ahdetut. T‰m‰ seikka ihmetytti minua suuresti. Rattaitten per‰ss‰
+asteli niiden omistaja poltellen pient‰ hopeahelaista kabardiinil‰ist‰
+piippuaan. H‰n oli puettu vanhaan upseeritakkiin ja p‰‰ss‰ oli h‰nell‰
+pitk‰karvainen tsherkessil‰islakki. N‰ˆlt‰‰n oli h‰n noin
+viidenkymmenen vanha; kasvojensa tummasta v‰rist‰ voi p‰‰tt‰‰ h‰nen jo
+ammoin tutustuneen Kaukaasian aurinkoon. Liian aikaisin harmaantuneet
+viiksens‰ eiv‰t myˆsk‰‰n sopineet h‰nen voimakkaaseen k‰yntiins‰ ja
+reippaaseen olentoonsa. Menin h‰nen luokseen ja tervehdin; h‰n kumarsi
+‰‰nettˆm‰n‰ ja puhalsi paksun savutuprun ilmaan.
+
+-- Taidamme olla matkakumppanit?
+
+H‰n kumarsi taas ‰‰neti.
+
+-- Te varmaankin menette Stavropoliin?
+
+-- Niin menen... vien kruunun tavaroita.
+
+-- Voisitteko selitt‰‰ minulle kuinka nelj‰ h‰rk‰‰ vet‰‰ niin helposti
+teid‰n painavaa kuormaanne kun sit‰vastoin kuusi h‰rk‰‰ miesten avulla
+tuskin saa liikahtamaan minun tyhji‰ rattaitani?
+
+H‰n hym‰hti merkitsev‰sti katsahtaen minuun viekkaasti.
+
+-- Varmaankin olette ‰sken tullut Kaukaasiaan?
+
+-- Noin vuosi sitten, vastasin.
+
+H‰n hym‰hti taaskin.
+
+-- Miten niin?
+
+-- Muuten vaan; petoja ovat n‰m‰ aasialaiset! Te tietysti luulette
+heid‰n auttavan noin huutaessaan?
+
+Piru sen tiet‰‰ mit‰ he huutavat? H‰r‰t heit‰ kuitenkin ymm‰rt‰v‰t; ja
+vaikka te valjastaisitte kaksikymment‰ h‰rk‰‰, kun he vaan huutavat
+omalla kielell‰‰n eiv‰t ne liikahdakaan paikaltaan... Kauheita
+veijareita! Vaan mink‰p‰ heille mahtaa? Nylkev‰t matkustajia... Nuo
+roistot ovat pilattuja! Saattepa n‰hd‰, viel‰ ne teilt‰ juomarahatkin
+ottavat. Kyll‰ min‰ ne tunnen... minua eiv‰t pet‰!
+
+-- Oletteko kauankin palvellut t‰‰ll‰?
+
+-- Palvelin t‰‰ll‰ jo Aleksei Petrovitsh-Jermolovin aikana, vastasi h‰n
+oikaisten itsens‰. -- H‰nen tullessaan t‰nne olin aliluutnantti --
+lis‰si h‰n -- ja h‰nen aikanaan sain kaksi arvonylennyst‰
+urhoollisuudestani taistelussa gortsia vastaan.
+
+-- Ent‰s nyt?
+
+-- Nyt kuulun kolmanteen linjapataljoonaan. Ent‰s Te, jos rohkenen
+kysy‰?
+
+Ilmoitin h‰nelle kuka olin. Keskustelu p‰‰ttyi siihen ja me jatkoimme
+matkaa ‰‰nettˆmin‰. Vuoren huipulla n‰imme lunta. Aurinko laski ja yˆ
+seurasi heti p‰iv‰‰ niinkuin aina etel‰ss‰. Lumen heijastusta saamme
+kiitt‰‰ siit‰, ett‰ aivan hyvin n‰imme tien, joka yh‰ kohosi, vaikkei
+en‰‰ niin jyrk‰sti. K‰skin laskea matkalaukun rattaille, vaihtaa h‰r‰t
+hevosiin, ja viel‰ viimeisen kerran katsahdin alas laaksoon; vaan sakea
+sumu, joka nousi vuoren rotkosta peitti sen kokonaan, eik‰ yksik‰‰n
+‰‰ni sielt‰ voinut en‰‰n kuulua korviimme. Meluavat osetiinit
+piirittiv‰t minut vaatien juomarahoja, vaan alikapteeni katsahti heihin
+niin ankarasti, ett‰ kaikki l‰htiv‰t silm‰nr‰p‰yksess‰. -- Tuommoista
+v‰ke‰, sanoi h‰n, eiv‰t he tied‰ leiv‰nk‰‰n nime‰ ven‰j‰ksi, vaan
+ovatpa oppineet sanomaan: "Upseeri, anna juomarahaa". Tataaritkin ovat
+mielest‰ni parempia, he eiv‰t ainakaan juo...
+
+Asemalle oli viel‰ virstan verran matkaa. Ymp‰rill‰ oli hiljaista, niin
+hiljaista, ett‰ hyttysen surinasta saattoi p‰‰tt‰‰ mihin suuntaan se
+lensi. Vasemmalla n‰kyi syv‰ musta rotko; sen takana sek‰ edess‰mme
+tummansiniset lumikerroksen peitt‰m‰t vuortenhuiput, kuvastuen vaaleaa
+taivaanrantaa vastaan, johon viel‰ heijastuivat iltaruskon viimeiset
+s‰teet. T‰hdet alkoivat tuikkia tummalla taivaalla, ja omituista,
+minusta n‰ytti, niinkuin ne olisivat olleet paljon korkeammalla kuin
+meill‰ pohjolassa. Molemmin puolin tiet‰ oli paljaita mustia kivi‰,
+toisin paikoin lumen alta pilkotti pensaita, mutta ei yksik‰‰n lehti
+liikahtanut. Keskell‰ t‰t‰ kuolon hiljaisuutta oli hauskaa kuulla
+v‰syneen postikolmivaljakon korskuntaa ja ven‰l‰isen kellon kilin‰‰.
+
+-- Huomenna tulee kaunis ilma sanoin min‰.
+
+Alikapteeni ei vastannut sanaakaan, n‰ytti vaan sormellaan aivan
+edess‰mme olevaa korkeaa vuorta.
+
+-- Mik‰ t‰m‰ on? kysyin.
+
+-- Se on Gut-vuori.
+
+-- No, ent‰ sitten?
+
+-- Katsokaa miten se savuaa.
+
+Ja todellakin, Gut-vuori savusi; molemmin puolin sit‰ kulki
+pilvenhattaroita ja huipulla kohosi musta pilvi, niin musta ett‰ se
+n‰ytti nokipallolta tummaa taivasta vasten.
+
+Et‰isyydess‰ erotimme jo postiaseman, sen ymp‰rill‰ olevien mˆkkien
+r‰yst‰‰t ja herttaisesti tuikkivat tulet, mutta yht'‰kki‰ puhalsi
+rotkosta vinkuen kostea kylm‰ tuuli ja sade alkoi hiljalleen tihmua.
+Tuskin olin enn‰tt‰nyt heitt‰‰ burkan (kamelinvillainen viitta)
+hartioilleni kun alkoi sataa lunta. Kunnioituksella katsahdin
+alikapteeniin.
+
+-- Meid‰n t‰ytyy j‰‰d‰ t‰nne yˆksi, sanoi h‰n harmissaan; t‰mmˆisess‰
+pyryss‰ emme mitenk‰‰n p‰‰se vuorten yli. -- Onko Krestovoi-vuorella
+ollut railoja, kysyi h‰n kyytimiehelt‰.
+
+-- Ei herra, vastasi t‰m‰ vaan, paljon on niit‰ tulossa.
+
+Koska ei ollut mink‰‰nlaisia huoneita matkustajille, saimme me yˆsijan
+savupirtiss‰. Pyysin matkatoveriani juomaan kanssani lasin teet‰,
+minulla kun oli mukanani teekannu -- ainoa lohdutukseni matkoilla
+Kaukaasiassa. Mˆkit olivat kiinni toinen toisessaan; kolme liukasta,
+m‰rk‰‰ porrasta johti asuntomme ovelle. Hapuillen astuin sis‰‰n ja
+kompastuin lehm‰‰n, (etuhuone on tavallisesti navettana). En tiennyt
+mit‰ tehd‰: tuossa m‰‰kiv‰t lampaat, tuolla murisivat koirat. Onneksi
+kimalsi lumi niin kirkkaasti, ett‰ voin lˆyt‰‰ toisen oven. Edess‰ni
+oli mielt‰kiinnitt‰v‰ taulu: leve‰ pirtti, jonka kattoa kannatti kaksi
+savustunutta pylv‰st‰ oli t‰ynn‰ v‰ke‰. Keskell‰ multalattiaa loimusi
+tuli ja savu, jonka tuuli painoi takaisin r‰pp‰n‰st‰, levisi ymp‰ri
+tupaa ja esti minua alussa n‰kem‰st‰ mit‰‰n, tulen ymp‰rill‰ istui
+kaksi vanhaa naista, suuri joukko lapsia sek‰ muuan laiha grusialainen.
+Kaikki olivat he r‰‰syisi‰.
+
+Mit‰s muuta, mekin siirryimme tulta l‰hemm‰ksi, sytytimme piippumme, ja
+pian alkoi teekannu porista kodikkaasti.
+
+-- Surkuteltavia ihmisi‰, sanoin alikapteenille, osottaen likaisia
+is‰nti‰mme, jotka ‰‰nettˆmin‰, aivan kuin kivettynein‰ katselivat
+meit‰.
+
+-- Tyhm‰‰ kansaa! vastasi h‰n. -- Uskokaa pois he eiv‰t osaa mit‰‰n,
+eik‰ heihin pysty mink‰‰nlainen sivistys! Vaikka kabardiinit ja
+tshetshenit ovatkin rosvoja, on heill‰ p‰‰ kuin partaveitsi; n‰m‰ eiv‰t
+osaa edes aseita valmistaa: eih‰n kenell‰k‰‰n heist‰ n‰e kunnollista
+tikaria. Kyll‰ ovat alkuper‰isi‰!
+
+-- Olitteko kauan Tshetshenien maakunnassa?
+
+-- Noin kymmenen vuotta olin komppanian kanssa linnoituksessa l‰hell‰
+punaista Brodaa -- tied‰tteh‰n?
+
+-- Olen siit‰ kuullut.
+
+-- Kyll‰ saimme tarpeeksemme n‰ist‰ huimap‰ist‰. Nyky‰‰n ovat sent‰‰n,
+kiitos Jumalan, rauhallisempia, mutta ennen muinoin kun vaan poistut
+sadan askeleen p‰‰h‰n linnoituksen muurista, niin kyll‰ jossain kolossa
+istuu pˆrrˆp‰inen piru vahtimassa: jos hetkeksik‰‰n unohdut
+tˆllistelem‰‰n niin saat joko nuoran kaulaasi tai luodin niskaasi.
+Reippaita poikia...
+
+-- Olette varmaankin ollut monessa seikkailussa? sanoin min‰ yh‰
+kasvavalla uteliaisuudella.
+
+-- Kuinka en olisi ollut! olen kyll‰, useastikin...
+
+H‰n alkoi kierrell‰ viiksi‰‰n, kallisti p‰‰t‰‰n ja rupesi miettim‰‰n.
+J‰nnityksell‰ odotin saavani kuulla jonkun jutun, niinkuin ylimalkaan
+kaikki matkamuistelmien kirjoittajat. Sill‰ v‰lin oli tee valmistunut;
+otin laukustani kaksi matkalasia, kaasin teet‰ ja asetin toisen
+toverini eteen. H‰n ryypp‰si, ja sanoi aivan kuin itsekseen: "kyll‰
+olen!" T‰m‰ huudahdus her‰tti minussa suuria toiveita. Tied‰n, ett‰
+vanhat kaukaasialaiset hyvin mielell‰‰n kertovat, sill‰ heille niin
+harvoin tarjoutuu tilaisuus siihen. Muutamat saavat olla viisikin
+vuotta komppanian kanssa jossain takamailla saamatta koko t‰ll‰ ajalla
+hyv‰n p‰iv‰n toivotusta omalla kielell‰‰n (sill‰ v‰‰peli sanoo: Jumala
+varjelkoon).
+
+Kertomista kyll‰ olisi, kansa ymp‰rill‰ on villi‰ ja uteliasta;
+jokainen uusi p‰iv‰ tuo tullessaan uusia vaaroja; tapahtumat voivat
+olla kerrassaan ihmeellisi‰ ja silloin v‰kisinkin tulet pahoitelleeksi
+ett‰ on niin v‰h‰n muistiinpanoja.
+
+-- Ettekˆ tahtoisi panna rommia teehen? sanoin seuralaiselleni. --
+Minulla on valkoista Tiflisist‰; nyt on niin kylm‰.
+
+-- Ei kiitoksia, en juo.
+
+-- Miksi ette?
+
+-- Muuten vaan. Olen p‰‰tt‰nyt. Ollessani viel‰ aliupseerina me kerran
+ryypp‰simme kesken‰mme, vaan samana yˆn‰ syntyi kapina ja me jouduimme
+iloisina rintamaan; mutta kyll‰ tuli nuhteita kun Aleksei Petrovitsh
+sai kuulla; Jumala varjelkoon miten h‰n suuttui! V‰h‰ll‰ oli kutsua
+oikeuteen. Tapahtuuhan niin toisinaan, kun ei yhteen vuoteen n‰e ket‰‰n
+ja jos sitten viel‰ on viinaa -- silloin on ihminen hukassa!
+
+T‰m‰n kuultuani melkein kadotin toivoni. -- Esimerkiksi tsherkessit,
+jatkoi h‰n: kun vaan juopuvat h‰iss‰ tai hautajaisissa, heti on tappelu
+valmiina. Kerran min‰kin vaivoin pelastuin, ja sill‰ kertaa oltiin
+rauhallisen ruhtinaan kemuissa.
+
+-- Mitenk‰ se tapahtui?
+
+-- Niin... (h‰n t‰ytti piippunsa, oikasihe ja alkoi kertoa), niin,
+n‰hk‰‰s, silloin olin pataljoonani kanssa Terekin takana olevassa
+linnoituksessa -- siit‰ on kohta viisi vuotta. Kerran syksyll‰ tuli
+muonavara-kuormasto; sen mukana oli nuori, noin viisikolmatta vuotias
+upseeri. H‰n tuli luokseni t‰ydess‰ univormussa ilmoittaen, ett‰ h‰nen
+oli k‰sketty j‰‰d‰ luokseni linnoitukseen. H‰n oli hoikka ja vaalea,
+puvustaan, joka oli aivan uusi, voin p‰‰tt‰‰ h‰nen aivan ‰sken tulleen
+Kaukaasiaan.
+
+-- Teid‰t on varmaankin siirretty Ven‰j‰lt‰ t‰nne? kysyin.
+
+-- Aivan oikein, herra aliluutnantti, vastasi h‰n. Tartuin h‰nt‰ k‰teen
+sanoen, olen hyvin iloinen, hyvin iloinen. Alussa teist‰ kyll‰ tuntuu
+v‰h‰n ik‰v‰lt‰, vaan me rupeamme el‰m‰‰n oikein toverillisesti. Olkaa
+hyv‰ kutsukaa minua vaan Maksim Maksimovitshiksi -- ja sitten, miksi
+teill‰ on juhlapuku? tulkaa luokseni aina vaan lakki p‰‰ss‰. H‰nelle
+n‰ytettiin asunto ja h‰n asettui asumaan linnoitukseen.
+
+-- Mik‰ h‰nen nimens‰ oli? kysyin min‰.
+
+-- Nimens‰ oli Grigorij Aleksandrovitsh Petshorin. Hyv‰ poika, uskallan
+teille vakuuttaa; tosin hieman kummallinen. Kovassa sateessa ja
+kylm‰ss‰ esimerkiksi, oli h‰n kaiket p‰iv‰t mets‰st‰m‰ss‰; kaikki
+toiset kylmettyiv‰t ja v‰syiv‰t, h‰neen ei pystynyt mik‰‰n. Toisinaan
+taas istui huoneessaan, kuvitteli tuulevan ja vakuutti kylmettyneens‰;
+pieninkin risahdus saattoi h‰net kalveten vavahtamaan. -- Omin silmin
+n‰in miten h‰n kerran taisteli mets‰sikaa vastaan; v‰liin ei moneen
+tuntiin puhunut sanaakaan, vaan kerran kertomisen alkuun p‰‰sty‰‰n ei
+tahtonut voida lopettaa, emmek‰ me kuuntelijat voineet lakata
+nauramasta... Eritt‰in kummallinen oli h‰n, ja varmaankin rikas mies,
+sill‰ paljon oli h‰nell‰ kallisarvoisia esineit‰!...
+
+-- Asuiko h‰n kauankin kanssanne? kysyin.
+
+-- Noin vuoden. Ja kyll‰p‰ onkin muistorikas se vuosi; paljon h‰n j‰tti
+minulle huolia, vaan en niit‰ muistele... On ihmisi‰, joille jo
+syntym‰ss‰ on m‰‰r‰tty ett‰ heille el‰m‰ss‰ tulee tapahtumaan
+kaikenlaisia merkillisi‰ asioita.
+
+-. Merkillisi‰? huudahdin uteliaana, kaataen h‰nelle lis‰‰ teet‰.
+
+-- Kyll‰ sen teille kerron. -- Virstan kuuden p‰‰ss‰ linnoituksesta
+asui rauhallinen ruhtinas. H‰nen poikansa, noin viisitoistavuotias
+nuorukainen alkoi k‰yd‰ luonamme joka p‰iv‰, milloin mill‰kin asialla.
+Ja totisesti, me hemmottelimme sit‰ poikaa. Oikea huimap‰‰ oli poika,
+kerkesi vaikka mihin, h‰n saattoi sek‰ nostaa lakkia ett‰ ampua hevosen
+juostessa t‰ytt‰ laukkaa. Yksi paha vika oli h‰nell‰: h‰n oli kovin
+ahne rahalle.
+
+Kerran huvin vuoksi lupasi Grigorij Aleksandrovitsh h‰nelle tukatin,
+jos h‰n varastaa parhaan vuohen is‰ns‰ laumasta: Ja mit‰ luulette? Jo
+seuraavana yˆn‰ toi h‰n sen, vet‰en sit‰ sarvista. V‰liin yllyimme
+h‰nt‰ kiusaamaan, silloin silm‰ns‰ veristyiv‰t ja h‰n tarttui heti
+tikariin.
+
+"Kuuleppas Asamat, ei sinun p‰‰si tule kauan s‰ilym‰‰n", puhuin min‰
+h‰nelle.
+
+-- Kerran tuli vanha ruhtinas itse kutsumaan meit‰ h‰ihin: h‰n piti
+h‰it‰ vanhimmalle tytt‰relleen ja me kun olimme ruhtinaan yst‰vi‰, emme
+mitenk‰‰n voineet kielt‰yty‰, vaikka h‰n olikin tataari. L‰ksimme
+h‰ihin. Kyl‰‰n tultuamme tervehtiv‰t meit‰ kaikki koirat haukkuen.
+Naiset, meid‰t n‰hty‰‰n piiloutuivat; ne, joiden kasvot onnistuimme
+n‰kem‰‰n olivat kaikkea muuta kuin kauniita. "Olen luullut
+tsherkessil‰isnaisia paljon kauniimmiksi", sanoi Grigorij
+Aleksandrovitsh. -- Odottakaahan! vastasin h‰nelle nauraen. Minulla oli
+jotain mieless‰ni.
+
+-- Ruhtinaan pirttiin oli jo kokoontunut paljon v‰ke‰. Aasialaisilla on
+tapana kutsua h‰ihin sek‰ tutut ett‰ tuntemattomat. Meid‰t otettiin
+vastaan kaikella kunnioituksella ja vietiin vierashuoneeseen.
+Odottamattomien tapahtumain varalta panin kuitenkin merkille paikan,
+johon hevosemme vietiin.
+
+-- Mitenk‰ he sitten viett‰v‰t h‰it‰? kysyin alikapteenilta.
+
+-- Aivan tavallisesti. Ensin mulla (pappi) lukee jotain koranista,
+sitten annetaan nuorelle parille sek‰ kaikille heid‰n sukulaisilleen
+lahjoja, syˆd‰‰n, juodaan busaa (kaljan tapainen juoma), t‰m‰n j‰lkeen
+alkaa ratsastaistelu, jolloin joku ilvehtij‰ keikailee huonolla,
+ontuvalla hevosella naurattaen kelpo seuruetta; h‰m‰r‰n tullessa alkaa
+vierashuoneessa tanssi. Ukkopahanen vinguttaa kolmikielist‰... en nyt
+satu muistamaan miksi semmoista kutsutaan... se muistuttaa meid‰n
+balalaikkaamme. Tytˆt ja pojat asettuvat kahteen riviin vastatusten,
+paukuttavat k‰si‰‰n ja laulavat. Tyttˆ ja poika astuvat keskelle,
+juttelevat kesken‰‰n runomitalla, ja toiset laulaen yhtyv‰t
+loppus‰keeseen. Me Petshorinin kanssa istuimme kunniapaikalla. H‰nen
+luokseen astuu talon nuorin tyt‰r noin kuusitoistavuotias neitonen, ja
+laulaa jonkun ylistyslaulun h‰nest‰.
+
+-- Mit‰ h‰n lauloi, ettekˆ sattuisi muistamaan?
+
+-- Taisi olla jotain t‰m‰n tapaista: "Ryhdikk‰it‰ ovat meid‰n
+ratsastajamme hopealla kirjailluissa takeissaan, vaan ryhdikk‰‰mpi on
+ven‰l‰inen upseeri kulta kalunoissaan. H‰n on kuin poppeli heid‰n
+keskell‰‰n, vaan ei h‰n kasva, eik‰ kukoista meid‰n puutarhoissamme."
+Petshorin nousi, kumarsi h‰nelle vieden k‰tens‰ otsalle sek‰ syd‰melle
+ja pyysi minua vastaamaan; min‰ kun osasin hyvin heid‰n kielt‰‰n
+tulkitsin h‰nen vastauksensa.
+
+-- Tytˆn poistuttua kuiskasin Grigorij Aleksandrovitshille: No, milt‰
+n‰ytti? -- Hurmaava! vastasi h‰n; -- mik‰ on h‰nen nimens‰? H‰nt‰
+kutsutaan Belaksi, vastasin min‰.
+
+-- Ja todellakin, h‰n oli kaunis: pitk‰ ja solakka, silm‰t tummat kuin
+vuorikauriilla, ja katseensa tunkeutui aina sieluun asti. Petshorin ei
+voinut k‰‰nt‰‰ silmi‰‰n tytˆst‰, joka tuon tuostakin salaa katsahti
+h‰neen. Petshorin ei ollut ainoa, joka ihaili kaunista ruhtinatarta;
+huoneen nurkasta katseli h‰nt‰ toinen tulisempi silm‰pari. Rupesin
+tarkastamaan nurkassa istujaa ja huomasin h‰net vanhaksi tuttavakseni
+Kasbitshiksi. H‰nest‰ ei voitu sanoa, oliko h‰n huimap‰inen, vai
+tyyniluontoinen. Vaikkei h‰nt‰ oltukaan n‰hty miss‰‰n pahanteossa,
+ep‰iltiin h‰nt‰ kuitenkin. Tavallisesti toi h‰n lampaita linnoitukseen,
+myyden ne hyvin huokealla, mutta tinkim‰tt‰; mink‰ kerran m‰‰r‰si, sen
+sai maksaa, ei alentanut yht‰‰n. Puhuttiin kyll‰, ett‰ h‰n kulkisi
+Kubanin takana ryˆstˆretkill‰, ja naama h‰nell‰ olikin kokolailla
+roistomainen; vartaloltaan oli h‰n pieni, kuiva, mutta harteva...
+notkea h‰n oli kuin itse paholainen.
+
+Takkinsa oli aina repaleinen, vaan aseet hopeahelaiset. Ja hevosensa
+oli kuulu koko Kabardiinien maakunnassa -- eik‰ parempaa hevosta olisi
+voinut ajatellakaan.
+
+Ei siis ihmek‰‰n, ett‰ kaikki ratsastajat kadehtivat h‰nt‰ ja koettivat
+monta kertaa varastaa hevosta h‰nelt‰, kuitenkin onnistumatta. N‰en
+viel‰kin sen edess‰ni: musta kuin piki, jalat kuin viulun kielet ja
+silm‰t vetiv‰t vertoja Belan silmille: ja miten kest‰v‰ se oli! voit
+ratsastaa vaikka viisikymment‰ virstaa t‰ytt‰ laukkaa lev‰ht‰m‰tt‰;
+is‰nt‰‰ns‰ seurasi kuin koira, tunsipa h‰nen ‰‰nens‰kin! Siin‰ oli
+oikein ryˆv‰rin hevonen!
+
+-- T‰n‰ iltana oli Kasbitsh tavallista synkk‰mielisempi ja min‰
+huomasin h‰nell‰ kauhtanansa alla olevan panssaripaidan. "Ei h‰n suotta
+rautapaitaa kanna", ajattelin itsekseni, "aivan varmaan h‰nell‰ on
+jotain mieless‰‰n." --
+
+-- Pirtiss‰ alkoi tuntua tukehduttavalta ja min‰ l‰ksin ulkoilmaan
+virkistym‰‰n. Yˆ jo levitteli tummia varjojaan vuorten yli ja sumu
+aaltoili rotkoissa.
+
+-- Minun pisti p‰‰h‰ni menn‰ katsomaan oliko hevosilla ruokaa, ja
+muutenkin, eih‰n varovaisuus ole koskaan haitaksi; minullakin oli hyv‰
+hevonen, jota moni kabardiinil‰inen oli lempein silmin katsellut.
+
+-- Kuljen pitkin aitausta, ja yht'‰kki‰ kuulen ‰‰ni‰; toisen ‰‰nen
+tunsin heti olevan is‰nt‰mme pojan, huimap‰‰ Asamatin, toinen puhui
+harvemmin ja hiljemmin. "Mist‰h‰n nuo t‰‰ll‰ puhuvat?" ajattelin
+min‰... "eiv‰th‰n vaan mahtane puhua minun hevosestani?" Istahdin aidan
+viereen, koettaen kuunnella hyvin tarkkaan. V‰liin estiv‰t minua
+kuulemasta sis‰lt‰p‰in tulevat laulun s‰velet ja puhelun hymin‰.
+
+-- "Sinulla on mainio hevonen! puheli Asamat: jos olisin is‰nt‰ talossa
+ja omistaisin kolmeen sataan nousevan hevoslauman, antaisin puolet
+sinun juoksijastasi, Kasbitsh!"
+
+-- Jaha! Siell‰ on Kasbitsh! -- ajattelin min‰ muistaen rautapaitaa.
+
+-- "Niin, vastasi Kasbitsh: ei koko maakunnassa ole toista sellaista.
+Kerran -- se oli Terekin takana -- olin ven‰l‰isi‰ laumoja rosvoamassa.
+Sill‰ kertaa ei onni ollut meille suotuisa, jonka vuoksi kaikki
+hajaannuimme. Nelj‰ kasakkaa ajoi minua takaa; kuulin jo aivan selv‰‰n
+heid‰n huutonsa ja edess‰ni oli sakea mets‰. Painauduin pitk‰kseni
+satulaan turvautuen Allah'iin ja ensi kerran el‰m‰ss‰ni sivalsin
+kovasti hevostani ruoskalla. Lintuna kiiti se oksien l‰pi; ohdakkeet
+repiv‰t vaatteitani, ja vaivaisjalavan kuivettuneet oksat lˆiv‰t minua
+vasten kasvoja. Hevoseni hyppi hautojen yli, halkaisten pensaita
+rinnallaan. Parempi olisi ollut j‰tt‰‰ hevonen mets‰nreunaan ja
+piiloutua mets‰‰n, vaan en voinut luopua juoksijastani -- ja profeeta
+palkitsi minulle kaiken. Muutamia luoteja lensi p‰‰ni yli, kuulin jo
+mitenk‰ kiiruhtavat kasakat olivat aivan kintereill‰ni... Yht‰kki‰ oli
+edess‰ni syv‰ kuilu, juoksijani ajatteli hetkisen -- ja hypp‰si, j‰‰den
+riippumaan takajaloistaan, silloin j‰tin suitset heitt‰ytyen ojaan;
+t‰m‰ pelasti hevoseni, se p‰‰si irti. Kasakat n‰kiv‰t kaiken t‰m‰n,
+vaan ei yksik‰‰n heist‰ laskeutunut minua etsim‰‰n; luulivat varmaankin
+minun kuolleen, ja min‰ kuulin heid‰n rynt‰‰v‰n ottamaan kiinni
+hevostani. Vereni j‰hmettyi, ryˆmin pitk‰ss‰ ruohossa ja n‰in muutamia
+kasakoita tulevan mets‰nlaidasta niitylle sek‰ Karggesini juoksevan
+suoraan heit‰ kohti. Huutaen rynt‰siv‰t kaikki kasakat sit‰ kiinni
+ottamaan; kauan ajoivat he sit‰ takaa, ja kerran olivat v‰h‰ll‰ saada
+nuoran sen kaulaan; silloin vapisin, loin silm‰ni maahan ja aloin
+rukoilla. Hetken kuluttua nostin silm‰ni ja n‰in hevoseni tuulen
+nopeudella syˆksyv‰n eteenp‰in, kasakkain kulkiessa verkalleen poisp‰in
+v‰syneine hevosineen. Myˆh‰‰n yˆhˆn olin piilopaikassani. Yht‰kki‰,
+mit‰s luulet Asamat? pimeydess‰ kuulen hevosen juoksevan ojan reunaa
+pitkin, korskuen, hirnuen ja lyˆden kavioita maahan; ‰‰nest‰ tunsin sen
+olevan yst‰v‰ni Karagesin!... Siit‰ hetkest‰ olemme olleet
+eroamattomat."
+
+-- Aivan selv‰‰n kuulin mitenk‰ h‰n taputti sen kaulaa, mainiten sit‰
+kaikellaisilla lempinimill‰.
+
+-- "Jos omistaisin tuhanteen nousevan hevoslauman, sanoi Asamat: niin
+saisit puolet Karagesist‰si."
+
+-- "En huolisi", vastasi Kasbitsh tyynesti.
+
+-- "Kuuleppas, Kasbitsh, puhui Asamat lempe‰sti, olet hyv‰ ihminen,
+olet urhoollinen ratsastaja, ja is‰ni pelk‰‰ ven‰l‰isi‰, eik‰ laske
+minua vuoristoon; anna minulle hevosesi, teen sulle mit‰ ikin‰ tahdot;
+varastan sinulle is‰lt‰ni h‰nen parhaan kiv‰‰rins‰ tai miekkansa."
+
+Kasbitsh oli vaiti.
+
+-- "Ensi kerran, n‰hdess‰ni hevosesi, jatkoi Asamat: syk‰hti syd‰meni
+niin oudosti; siit‰ saakka olen katsellut halveksien is‰ni parhaita
+juoksijoita, olen h‰vennyt niill‰ n‰ytt‰yty‰, ja surun valtaamana olen
+p‰ivitt‰in istunut kallion reunalla ajatellen siroa suoraselk‰ist‰
+hevostasi, se katsoo minua silmiin, aivan kun tahtoisi sanoa jotain.
+Min‰ kuolen, Kasbitsh, jos et myy sit‰ minulle!" sanoi Asamat
+v‰r‰j‰v‰ll‰ ‰‰nell‰.
+
+Minusta tuntui aivan kun h‰n olisi itkenyt, vaikka olikin
+lujaluontoinen, ei itkenyt edes lapsenakaan.
+
+Kasbitsh nauroi vaan h‰nen kyynelilleen.
+
+-- "Kuule, sanoi Asamat lujalla ‰‰nell‰, n‰eth‰n ett‰ suostun kaikkeen.
+Jos tahdot varastan sinulle sisareni? Kuinka ihmeellist‰ onkaan h‰nen
+laulunsa, h‰nen tanssinsa ja verrattomia ovat h‰nen kullalla kirjaillut
+tyˆns‰! Ei Turkin sultaanillakaan ole ollut sellaista vaimoa...
+Tahdotko? Odota minua ensi yˆn‰ siin‰ rotkossa, jossa puro virtaa:
+menen siit‰ ohi h‰nen kanssaan -- ja h‰n on sinun. Eikˆ Bela mielest‰si
+ole juoksijasi arvoinen?"
+
+-- Pitk‰‰n aikaan ei Kasbitsh puhunut mit‰‰n; vihdoin, aivan kuin
+vastaukseksi h‰n alkoi laulaa vanhanaikaista laulua.
+
+-- Turhaan koetti Asamat saada h‰nt‰ suostumaan, itkien, imarrellen ja
+vannoen; vihdoin Kasbitsh keskeytti h‰net k‰rsim‰ttˆm‰sti; -- "Mene
+pois, j‰rjetˆn pojannulikka! Mitenk‰ sin‰ kykenisit minun hevosellani
+ratsastamaan? Kolmella ensim‰isell‰ askeleella heitt‰isi se sinut
+sel‰st‰‰n ja p‰‰si murskautuisi kiviin."
+
+-- "Minutko?!" huusi Asamat hurjistuneena ja samassa hel‰hti pieni
+tikari rautapaitaa vastaan. Voimakas k‰si sys‰si h‰net luotaan, niin
+ett‰ h‰n kaatui aitaan, joka heilahti. Tarpeeksi iloa! ajattelin min‰,
+juoksin talliin ja talutin hevosemme takapihalle. Parin minuutin
+kuluttua oli pirtiss‰ kauhea melu.
+
+-- Asia oli n‰in: Asamat juoksi sis‰‰n kauhtana rikki revittyn‰ ja
+huusi Kasbitshin tahtovan tappaa h‰net. Kaikki juoksivat ulos,
+tarttuivat pyssyihin ja nyt vasta ilo alkoi! Huutoja, melua, laukauksia
+ja keskell‰ joukkoa hevosensa sel‰ss‰ Kasbitsh heiluttaen miekkaa.
+
+"Paha on juoda pidoissa", sanoin Grigorij Aleksandrovitshille, saaden
+h‰net kiinni takin hihasta, "eikˆh‰n olisi parasta l‰hte‰ heti pois?"
+
+-- Odottakaahan nyt toki loppua.
+
+-- Varmaan t‰m‰ p‰‰ttyy huonosti; semmoinen on tapa n‰ill‰
+aasialaisilla: juotuansa busaa rupeavat he heti tappelemaan!
+
+-- Istuimme hevostemme selk‰‰n ja ratsastimme pois.
+
+-- Mitenk‰s Kasbitshille k‰vi? kysyin k‰rsim‰ttˆm‰sti alikapteenilta.
+
+-- Mit‰ niille tapahtuisi! vastasi h‰n juoden teelasinsa tyhj‰ksi --
+p‰‰si pakoon!
+
+-- Haavoittumattako? kysyin min‰.
+
+-- Jumala sen tiet‰‰! El‰vi‰ rosvoja ovat! Olen min‰kin n‰hnyt muutamia
+toimessa: itse on haavoissa kuin seula, mutta miekkaa heiluttaa kuin
+poika.
+
+Lyhyen vaitiolon j‰lkeen jatkoi alikapteeni polkien jalkaa:
+
+-- En koskaan voi antaa itselleni anteeksi er‰st‰ asiaa: en tied‰ mik‰
+minua lienee riivannut, kun kotiin tultuamme kerroin mit‰ olin kuullut
+aidan takana istuessani; Petshorin nauroi, n‰ytti niin viekkaalta, ja
+min‰ huomasin h‰nen ajattelevan jotain.
+
+-- Mit‰ se sitten oli? pyyd‰n, kertokaa.
+
+-- Eih‰n t‰ss‰ muu auta, kun kerran olen alkanut.
+
+-- Noin nelj‰n p‰iv‰n kuluttua tulee Asamat linnoitukseen.
+Tavallisuuden mukaan meni h‰n Grigorij Aleksandrovitshin luo, joka aina
+syˆtti h‰nelle makeisia. Min‰kin olin saapuvilla. Tuli puhe hevosista,
+jolloin Petshorin alkoi kehua Kasbitshin hevosta; virma se on ja kaunis
+kuin vuorikauris -- aivan niinkuin h‰n itse sanookin, ettei koko
+maailmassa ole sen vertaista.
+
+-- Pikku tataarin silm‰t alkoivat kiilua, vaan Petshorin ei ollut sit‰
+huomaavinaan; koetin puhua muista asioista, vaan h‰n keskeytti minut
+heti, alkaen taas Kasbitshin hevosesta. N‰in tapahtui joka kerta kun
+Asamat tuli meille. Noin kolmen viikon kuluttua huomasin Asamatin
+kuihtuneen ja kalvenneen, aivan kuin romaaneissa kerrotaan rakkaudesta
+tapahtuvan. Mik‰ ihme?
+
+-- Vasta j‰lest‰p‰in sain tiet‰‰ koko jutun: Grigorij Aleksandrovitsh
+oli kiusannut h‰net niin, ett‰ poika olisi ollut valmis menem‰‰n vaikka
+veteen. Kerran sanoi h‰n Asamatille: n‰en ett‰ olet kovin mieltynyt
+hevoseen, vaan sit‰ on sinun yht‰ vaikea saada kuin n‰hd‰ omaa
+niskaasi! Vaan sanohan mit‰ antaisit sille, joka sen sinulle
+lahjoittaisi?
+
+-- Kaikki mit‰ h‰n tahtoisi, vastasi Asamat.
+
+-- Siin‰ tapauksessa hankin min‰ sen sinulle, mutta ainoastaan
+ehdolla... Vanno, ett‰ sen t‰yt‰t...
+
+-- Min‰ vannon...
+
+-- Vanno sin‰kin!
+
+-- Hyv‰! Vannon, ett‰ tulet omistamaan hevosen; vaan siit‰ t‰ytyy sinun
+antaa minulle sisaresi Bela: Karages tulee olemaan h‰nen kalim'ins‰
+(morsiuslunnaat tataarilaisilla). Toivon kaupan olevan sinulle
+edullisen.
+
+Asamat oli vaiti.
+
+-- Etkˆ tahdo? Tee, niinkuin parhaaksi n‰et, luulin sinua mieheksi,
+vaan n‰ytkin olevan viel‰ lapsi; ratsastus onkin sinulle liian
+aikasta...
+
+Asamat tulistui.
+
+-- Mutta is‰ni? sanoi h‰n.
+
+-- No, eikˆ h‰n sitten koskaan ole matkoilla?
+
+-- Totta sanoit.
+
+-- Oletko suostuvainen?...
+
+-- Olen! kuiskasi Asamat kuolon kalpeana. Milloin se tapahtuu?
+
+-- Kun Kasbitsh tulee ensi kerran t‰nne lampaita myym‰‰n: loppu on
+minun asiani. Muista sitten Asamat!
+
+-- N‰in he olivat sopineet t‰m‰n jutun... totta puhuen huonon jutun!
+J‰lest‰p‰in puhuin siit‰ Petshorinille, vaan h‰n vastasi, ett‰
+tsherkessit‰r voi olla onnellinen, saadessaan niin rakastettavan miehen
+kuin h‰n; sill‰ onhan h‰n kuitenkin h‰nen miehens‰ heid‰n k‰sityksens‰
+mukaan, vaan mik‰ Kasbitsh on -- pahantekij‰, jota olisi pit‰nyt
+rangaista...
+
+En tiennyt viel‰ mit‰‰n heid‰n v‰lipuheistaan, kun Kasbitsh tuli kerran
+myym‰‰n lampaita ja hunajaa; pyysin h‰nen tulemaan seuraavana p‰iv‰n‰.
+"Asamat!" sanoi Petshorin "huomenna on Karages k‰siss‰ni, ellei Bela
+ole t‰‰ll‰ ensi yˆn‰, et saa n‰hd‰k‰‰n hevosta..."
+
+-- Hyv‰! sanoi Asamat ja nelisti kyl‰‰n p‰in. Illalla Grigorij
+Aleksandrovitsh varustautui aseilla ja l‰ksi linnoituksesta; miten
+olivat asian p‰‰tt‰neet en tied‰, illalla he kuitenkin palasivat
+yhdess‰, ja vahtisotamies huomasi, ett‰ Asamatin satulassa lep‰si
+nainen, jonka k‰det sek‰ jalat olivat sidotut ja kasvoja peitti paksu
+huntu.
+
+-- Ent‰ hevonen? kysyin alikapteenilta.
+
+-- Heti kerron. Varhain seuraavana aamuna tuli Kasbitsh myym‰‰n
+lampaita. H‰n sitoi hevosensa aitaan ja tuli luokseni; vaikka h‰n
+olikin rosvo, tarjosin h‰nelle teet‰, sill‰ olimmehan kuitenkin
+yst‰v‰t.
+
+-- Puhelimme yht‰ ja toista... Yht‰kki‰ n‰en Kasbitshin kalveten
+kiiruhtavan ikkunaan; kaikeksi onnettomuudeksi oli ikkuna takapihalle
+p‰in.
+
+-- Mik‰ sinua vaivaa? kysyin min‰.
+
+-- Hevoseni, sanoi h‰n, vavisten kuin haavan lehti.
+
+Min‰kin kuulin kavioiden kopsetta: -- varmaankin on tullut joku
+kasakka...
+
+-- Ei ole! ovat varastaneet hevoseni! huusi h‰n syˆksyen ulos kuin
+villi pantteri. Kahdella hypp‰yksell‰ oli h‰n jo pihalla; portilla
+sulki vahtisotamies pyssyll‰ h‰nelt‰ tien; h‰n hypp‰si pyssyn yli ja
+alkoi juosta tiet‰ pitkin... Et‰isyydess‰ kohosi tomu Asamatin
+ratsastaessa uljaalla Karagesill‰; Kasbitsh tempasi pyssyn ja ampui.
+Tullakseen vakuutetuksi siit‰, ett‰ oli ampunut harhaan, seisoi h‰n
+hetken liikkumattomana, sitten h‰n kirkasi, lˆi pyssyns‰ kiveen s‰rkien
+sen palasiksi, kaatui maahan ja alkoi itke‰ kuin lapsi... H‰nen
+ymp‰rilleen kokoontui v‰ke‰ linnoituksesta, vaan h‰n ei huomannut
+ket‰‰n. K‰skin panna rahat lampaista h‰nen viereens‰. H‰n ei
+koskenutkaan niihin, makasi vaan liikahtamatta, aivan kuin olisi ollut
+kuollut. N‰in h‰n makasi koko yˆn... Seuraavana aamuna tuli h‰n
+linnoitukseen pyyt‰en, ett‰ h‰nelle ilmoitettaisiin ryˆst‰j‰.
+Vahtisotamies, joka oli n‰hnyt Asamatin irroittavan hevosen, ei n‰hnyt
+tarpeelliseksi salata sit‰. T‰m‰n nimen kuultuaan Kasbitshin silm‰t
+salamoivat ja h‰n l‰ksi kyl‰‰n, jossa Asamatin is‰ asui.
+
+-- Mit‰s is‰ sanoi?
+
+-- Siin‰p‰ se onkin, Kasbitsh ei tavannut h‰nt‰: h‰n oli matkustanut
+jonnekin viikoksi, eih‰n Asamat muuten olisi voinut varastaa sisartaan?
+
+-- Ja kun is‰ palasi, olivat sek‰ tyt‰r ett‰ poika poissa. Asamat oli
+viisas... aavisti ettei henkens‰ olisi s‰ilynyt, jos olisi Kasbitshin
+k‰siin joutunut. Siit‰ saakka onkin ollut poissa: luultavasti yhtyi
+johonkin rosvojoukkoon ja kaatui Terekin tai Kubanin takana, se olikin
+h‰nelle ansionsa mukaan.
+
+-- Totta puhuen, sain min‰kin siit‰ osani. Saatuani tiedon, ett‰
+tsherkessit‰r oli Grigorij Aleksandrovitshin luona, pukeuduin
+juhlapukuun ja menin h‰nen luokseen.
+
+-- H‰n loikoi etuhuoneessa, toinen k‰si niskassa, toisella pidellen
+sammunutta piippua. Ovi toiseen huoneeseen oli lukittu, ja avain poissa
+suulta. Kaiken t‰m‰n huomasin heti... Min‰ ysk‰sin ja aloin koputtaa
+jaloillani kynnykseen -- h‰n vaan ei ollut kuulevinaan...
+
+-- Herra v‰nrikki! sanoin min‰, mahdollisimman ankaralla ‰‰nell‰:
+ettekˆ n‰e minun tulevan luoksenne?
+
+-- Tekˆ, siell‰ olettekin Maksim Maksimovitsh? hyv‰‰ p‰iv‰‰! Tahdotteko
+piipun? vastasi h‰n nousematta.
+
+-- Anteeksi, en ole Maksim Maksimovitsh; olen alikapteeni.
+
+-- Yhden tekev‰‰. Tahdotteko teet‰? Jos tiet‰isitte mik‰ minua painaa!
+
+-- Tied‰n kyll‰ kaikki, vastasin min‰ astuessani s‰ngyn luo.
+
+-- Sit‰ parempi: en olekaan kertomistuulella.
+
+-- Herra v‰nrikki, olette tehnyt rikoksen, josta minullakin on oikeus
+teit‰ syytt‰‰...
+
+-- Mit‰ viel‰! Mik‰ rikos se on? meill‰h‰n on jo kaikki yhteist‰.
+
+-- Mit‰ ihmeit‰? Antakaa t‰nne miekkanne!
+
+-- Mitjka, tuo miekka!...
+
+Mitjka toi miekan.
+
+Kun olin t‰ytt‰nyt velvollisuuteni, istuin h‰nen s‰nkyns‰ laidalle
+sanoen: Kuuleppas Grigorij Aleksandrovish, myˆnn‰ tehneesi v‰‰rin!
+
+-- Miss‰ asiassa?
+
+-- Ottaessasi Belan... kyll‰ se Asamat on roisto!... myˆnn‰ nyt vaan?
+
+-- Vaan kun h‰n miellytt‰‰ minua!
+
+Mit‰ voin t‰h‰n vastata? Tulin aivan sanattomaksi. V‰h‰n ajan kuluttua
+sanoin kuitenkin, ett‰ jos is‰ tulee vaatimaan Belaa takasin, niin
+h‰nen t‰ytyy antaa.
+
+-- Siihen ei ole mit‰‰n pakkoa!
+
+-- Vaan jos h‰n saa tiet‰‰ Belan olevan t‰‰ll‰.
+
+-- Mitenk‰ h‰n saisi sen tiet‰‰?
+
+-- Tulin uudelleen sanattomaksi. -- "Kuulkaa, Maksim Maksimovitsh,
+sanoi Petshorin, nousten pystyyn: teh‰n olette hyv‰ ihminen -- ja jos
+me annamme raakalaiselle h‰nen tytt‰rens‰, h‰n joko tappaa tai myy
+h‰net. Ei pid‰ pahentaa asiaa, antakaa h‰nen olla minun luonani, ja
+pit‰k‰‰ te miekkani..."
+
+-- N‰ytt‰k‰‰ h‰net minulle, sanoin min‰.
+
+-- H‰n on t‰m‰n oven takana; vaan turhaan olen min‰kin t‰n‰‰n koettanut
+n‰hd‰ h‰nt‰; istuu nurkassa, huntuun k‰‰riytyneen‰, ei puhu eik‰ n‰yt‰
+silmi‰‰n, arka h‰n on kuin villikauris. Olen ottanut h‰nelle seuraksi
+er‰‰n vaimon, joka osaa tataarien kielt‰, ja joka v‰hitellen koettaa
+h‰nt‰ totuttaa ajattelemaan asemaansa; sill‰ h‰n ei tule kuulumaan
+kenellek‰‰n muulle kuin minulle! -- lis‰si h‰n lyˆden nyrkkins‰
+pˆyt‰‰n. -- Suostuin t‰h‰nkin... Enh‰n voinut tehd‰ toisin! on ihmisi‰,
+joille aina t‰ytyy antaa myˆden.
+
+-- Mitenk‰s k‰vi? kysyin Maksim Maksimovitshilta: saiko h‰n kaunottaren
+omakseen, vai kuihtuiko t‰m‰ koti-ik‰v‰‰n?
+
+-- Eih‰n nyt toki koti-ik‰v‰‰n! N‰kyiv‰th‰n linnoituksesta samat vuoret
+kuin kyl‰st‰kin -- eiv‰tk‰ n‰m‰ vuoriston lapset muuta tarvitsekaan. Ja
+sitten viel‰ Grigorij Aleksandrovitsh toi h‰nelle lahjoja joka p‰iv‰;
+ensip‰ivin‰ tyˆnsi h‰n ne ylpe‰sti luotaan sanaakaan sanomatta.
+Seuralaisensa sai silloin lahjat, jotka vaan kiihottivat h‰nen
+kaunopuheliaisuuttaan. Niin, lahjat! mit‰ ei nainen tekisi v‰rillisest‰
+kangaspalasesta!... Vaan leikki sikseen... kauan taisteli Grigorij
+Aleksandrovitsh, opetteli kuitenkin tataarien kielt‰ ja Belakin alkoi
+jo ymm‰rt‰‰ ven‰j‰‰. V‰hitellen tyttˆ alkoi katsoa h‰neen, ensin
+kulmainsa alta vinosti, ja murheellisena laulaen puoli ‰‰neen
+surullisia laulujaan, saaden minutkin synk‰ksi, joka kerran kun kuulin
+laulunsa viereisest‰ huoneesta.
+
+En voi koskaan unhoittaa er‰st‰ tapausta: kerran ohi kulkiessani
+kurkistin ikkunasta sis‰‰n; -- Bela istui pankolla, p‰‰ alas painuneena
+ja Grigorij Aleksandrovitsh seisoi h‰nen edess‰‰n. "Kuulehan armaani",
+puhui h‰n: "tied‰th‰n sen ett‰ ennemmin tai myˆhemmin sinun t‰ytyy
+tulla omakseni -- mink‰t‰hden sitten kiusaat minua? Rakastatko jotakuta
+toista? Jos niin on, p‰‰st‰n sinut heti kotiin." -- H‰n vavahti tuskin
+huomattavasti ja pyˆritti p‰‰t‰‰n. "Vai olenko sinusta vastenmielinen",
+jatkoi h‰n? -- Bela kalpeni ‰‰netˆnn‰. -- "Usko minua, Allah on sama
+kaikille kansoille, ja jos h‰n kerran sallii minun rakastaa sinua, niin
+miksi kielt‰isi h‰n sinua rakastamasta minua?" -- Bela loi h‰neen
+tutkivan katseen ja n‰ytti h‰mm‰styv‰n kuullessaan t‰m‰n uuden
+mietinnˆn; silmiss‰‰n kuvastui ep‰ilys ja halu saada varmuus asiassa.
+-- Mitk‰ ihanat silm‰t! ne s‰kenˆiv‰t kuin kaksi hehkuvaa hiilt‰. --
+"Kuule minua, armas Bela!" jatkoi Petshorin: "N‰eth‰n kuinka sinua
+rakastan, olen valmis antamaan kaikki saadakseni sinut iloiseksi!
+tahtoisin tehd‰ sinut onnelliseksi; vaan jos viel‰ suret, kuolen min‰.
+Sano, voitko tulla iloiseksi?" Bela ei k‰‰nt‰nyt tummia silmi‰‰n
+h‰nest‰, mutta vaikeni yh‰, sitten h‰n hym‰hti yst‰v‰llisesti,
+nyˆk‰ytt‰en p‰‰t‰‰n myˆntymyksen merkiksi. Petshorin tarttui h‰nen
+k‰teens‰ pyyt‰en h‰nt‰ suutelemaan itse‰‰n. Bela per‰ytyi askeleen ja
+toisteli huonolla ven‰j‰n kielell‰: "ei ole tarpeellista, ei ole
+tarpeellista." Grigorij Aleksandrovitsh pyysi jyrk‰sti, Bela itki
+vavisten. -- "Olen vankisi", sanoi h‰n: "olen orjasi, voit siis pakottaa
+minut!" -- ja kyyneleet tulvivat virtana. --
+
+-- Grigorij Aleksandrovitsh lˆi nyrkill‰ otsaansa, kiiruhtaen toiseen
+huoneeseen. -- Pist‰ydyin h‰nen luokseen: h‰n k‰veli edestakasin
+huoneessa sangen synk‰n n‰kˆisen‰. -- Mik‰ nyt on veliseni? sanoin
+h‰nelle. -- "Paholainen h‰n on, eik‰ nainen!" vastasi h‰n; "vaan annan
+teille kunniasanani siit‰, ett‰ h‰n kerran tulee omakseni..."
+
+Pudistin p‰‰t‰ni.
+
+"Lyˆmmekˆ vetoa?" sanoi h‰n: "viikon kuluttua!" -- Lyˆd‰‰n vaan! --
+Lˆimme k‰tt‰ ja erosimme. -- Seuraavana aamuna h‰n l‰hetti miehen
+Kisl‰riin vartavasten ostoksille; t‰m‰ toi koko joukon mit‰
+erilaisimpia persialaisia kankaita -- ei niit‰ kaikkia jaksa
+luetellakaan.
+
+-- "Mit‰ arvelette Maksim Maksimovitsh, sanoi h‰n minulle lahjoja
+n‰ytelless‰‰n, voiko aasialainen kaunotar vastustaa t‰mmˆist‰
+loistoa?" -- "Ette tunne tsherkessitt‰ri‰, vastasin min‰; eiv‰t he ole
+grusialais- eik‰ takakaukaasian tataarilais-naisten kaltaisia -- ei,
+n‰m‰ ovat aivan toisenlaisia. Heill‰ on omat tapansa; he ovat saaneet
+toisellaisen kasvatuksen." Grigorij Aleksandrovitsh hym‰hti ja alkoi
+vihelt‰‰ marssia.
+
+Olin ennustanut oikein lahjojen vaikutuksesta, sill‰ saatuaan ne tuli
+Bela vaan jonkun verran yst‰v‰llisemm‰ksi ja luottavaisemmaksi, eik‰
+sen enemp‰‰. Petshorin p‰‰tti turvautua viimeiseen keinoon. Er‰‰n‰
+aamuna h‰n k‰ski satuloida hevosen, pukeutui tsherkessil‰ispukuun, otti
+aseensa ja astui Belan huoneeseen. -- "Bela!" sanoi h‰n: "Sin‰ tied‰t
+kuinka sinua rakastan. Otin sinut luokseni toivoen voittavani
+rakkautesi; huomaan erehtyneeni: -- j‰‰ hyv‰sti! Hallitse em‰nt‰n‰ koko
+kotiani, jos haluat, voit l‰hte‰ is‰si luo -- olet vapaa. Olen rikkonut
+sinua vastaan ja minun t‰ytyy sovittaa se rankaisemalla itse‰ni,
+Hyv‰sti, min‰ l‰hden -- mihin? -- en itsek‰‰n tied‰! Ehkei minun kauan
+tarvitse hakea kuulaa, joka rintani l‰vist‰isi tai miekkaa, joka p‰‰ni
+halkaisisi; silloin muista minua ja anna minulle anteeksi." -- H‰n
+k‰‰ntyi poisp‰in ojentaen Belalle k‰tens‰ j‰‰hyv‰isiksi. T‰m‰ ei
+tarttunut ojennettuun k‰teen, eik‰ puhunut sanaakaan. Min‰, seisoessani
+oven takana n‰in raosta h‰nen kasvonsa; minun tuli s‰‰li h‰nt‰ --
+kuolon kalpeat olivat n‰m‰ ihanat kasvot! Saamatta vastausta astui
+Petshorin muutamia askeleita ovea kohti; h‰n vapisi -- ja totta puhuen
+luulen, ett‰ h‰n olisi ollut valmis t‰ytt‰m‰‰n, mit‰ oli leikill‰
+uhannut. H‰nh‰n oli aina niin kummallinen. H‰n oli tuskin koskettanut
+oveen, kun Bela hyp‰hti ylˆs ja itkien heitt‰ytyi h‰nen kaulaansa. --
+Voitteko uskoa? minunkin silm‰ni kostuivat t‰m‰n n‰hdess‰ni -- en
+oikein tied‰ mik‰ lienee ollut... -- Alikapteeni vaikeni. -- Minun
+t‰ytyy tunnustaa, ett‰ olin harmissani, kun ei yksik‰‰n nainen ollut
+minua niin rakastanut.
+
+-- Oliko heid‰n onnensa pitk‰llinen? kysyin.
+
+-- Kyll‰ oli. Bela tunnusti meille, ett‰ siit‰ p‰iv‰st‰, kun h‰n ensi
+kerran n‰ki Petshorinin oli h‰n usein n‰hnyt unta h‰nest‰ ja ettei
+kukaan mies ollut h‰neen tehnyt semmoista vaikutusta. -- Niin, kyll‰ he
+olivat onnellisia!
+
+-- Kuinka ik‰v‰‰! huudahdin vastoin tahtoani. Olin odottanut
+traagillista avioeroa, ja yht‰kki‰ niin odottamatta petyin
+toiveissani!.... Onko mahdollista, jatkoin min‰: eikˆ is‰k‰‰n arvannut,
+ett‰ tyttˆ oli linnoituksessa?...
+
+-- Kyll‰ h‰n taisi ep‰ill‰. Jonkun p‰iv‰n kuluttua saimme tiet‰‰, ett‰
+vanhus oli murhattu. N‰in se oli tapahtunut... Huomioni her‰si
+uudestaan.
+
+-- Luulen Kasbitshin k‰sitt‰neen asian niin, ett‰ Asamat oli varastanut
+hevosen is‰ns‰ suostumuksella. Kerran asettui h‰n odottamaan tien
+syrj‰‰n, noin kolmen virstan p‰‰h‰n kyl‰st‰; ukko palasi tyt‰rt‰‰n
+etsim‰st‰; oli h‰m‰r‰, h‰n ajoi k‰yden, seuralaisensa olivat j‰‰neet
+j‰lelle, yht‰kki‰ hiipii Kasbitsh pensaikoista kuin kissa, hypp‰‰
+hevosen selk‰‰n h‰nen taakseen, kaataa h‰net tikarin iskulla, ottaa
+suitset -- ja livist‰‰ tiehens‰; muutamat ruhtinaan seuralaisista
+n‰kiv‰t koko tapahtuman m‰en tˆrm‰lt‰; he l‰ksiv‰t ajamaan h‰nt‰ takaa,
+vaan eiv‰t voineet saavuttaa.
+
+-- H‰n korvasi hevosensa kadottamisen kostamalla, sanoin min‰,
+saadakseni tiet‰‰ seuralaiseni mielipiteen.
+
+-- Tietysti h‰n menetteli aivan oikein, -- heid‰n k‰sityksens‰ mukaan,
+sanoi alikapteeni.
+
+Vasten tahtoani kummastelin ven‰l‰isen kyky‰ mukautua sen kansan
+k‰sitykseen, jonka keskuudessa h‰nen tulee el‰‰. En tied‰, pit‰‰kˆ
+kummastella vaiko ylist‰‰ t‰t‰ ominaisuutta, kuitenkin todistaa se
+taipuisuutta ja tervett‰ j‰rke‰, joka antaa rikoksen anteeksi aina
+silloin kun huomaa sen v‰ltt‰m‰ttˆm‰ksi.
+
+Sill‰ v‰lin oli tee juotu; aikoja valjastetut hevoset v‰risiv‰t
+kylm‰st‰; kuu kumotti kalpeana l‰nness‰, valmiina peittym‰‰n synkkiin
+pilviin, jotka repeytyneen verkon tavoin riippuivat et‰isten vuorten
+huippujen yli. Tulimme kyl‰n ulkopuolelle. Huolimatta seuralaiseni
+ennustuksista, ilma selkeni luvaten ihanan aamun; et‰‰ll‰
+taivaanrannalla muodostivat t‰htiryhm‰t mit‰ ihanimpia kuvioita,
+sammuen toinen toisensa j‰lkeen, aina sen mukaan kun id‰n heikko
+valaistus levisi sinipunertavalle taivaalle, kirkastaen v‰hitellen
+lumipeitteiset vuorten huiput. Oikealla ja vasemmalla h‰‰mˆttiv‰t
+synk‰t salaper‰iset kuilut, joihin sumu pakeni kierrellen kaarrellen
+kuin k‰‰rme, ja ik‰‰nkun pel‰ten nousevaa p‰iv‰‰.
+
+Oli niin hiljaista maassa ja taivaassa, aivankun ihmisen syd‰mess‰
+aamurukouksen hetkell‰; silloin t‰llˆin kulki id‰st‰ viile‰ tuuli
+pˆrrˆtt‰en hevosten h‰rm‰isi‰ harjoja. Me l‰hdimme liikkeelle. Viisi
+huonoa hevosta tuskin jaksoi vet‰‰ ajopeli‰mme mutkaista tiet‰
+Gut-vuorelle. Me kuljimme j‰less‰ pannen kivi‰ pyˆrien alle, silloin
+kun hevostemme ponnistukset eiv‰t riitt‰neet; tuntui silt‰ kun tie
+olisi vienyt taivaaseen, sill‰ niin pitk‰lle kun silm‰ voi erottaa se
+yh‰ vaan kohosi, kadoten viimein pilveen, joka viel‰ illasta saakka
+lep‰ili Gut-vuoren huipulla kuin saalista odottava korppikotka. Lumi
+narisi jalkaimme alla, ilma alkoi tuntua ohuelta vaikeuttaen
+hengitt‰mist‰, tuon tuostakin syˆksyi veri p‰‰h‰n; vaan kaiken t‰m‰n
+ohella virtasi suonissani jonkunmoinen suloisuuden tunne ja minusta
+tuntui ik‰‰nkuin keve‰mm‰lt‰, ollessani niin paljon korkeammalla muuta
+maailmaa. Tunsin itseni lapseksi -- niinkuin aina poistuessamme
+valistuneesta yhteiskunnasta ja l‰hestyess‰mme luontoa ehdottomasti
+tunnemme tulevamme lapsiksi: kaikki ulkoap‰in tullut eroaa sielusta ja
+se muuttuu sellaiseksi miksi se luultavasti joskus tulee muuttumaan.
+Se, joka on sattunut samoin kuin min‰ kuljeksimaan autioilla vuorilla
+tarkkaan katsellen niiden kummallisia muotoja, ja ahnaasti hengitt‰en
+niiden loviin tulvinutta, uutta el‰m‰‰ antavaa ilmaa, h‰n tietysti
+ymm‰rt‰‰ haluni n‰iden salaper‰isten taulujen kuvaamiseen. Vihdoin
+olimme Gut-vuoren huipulla, pys‰hdyimme ja katselimme ymp‰rillemme:
+vuoren yli riippui harmaa pilvi, jonka kylm‰ hengitys ennusti pikaista
+rajuilmaa; vaan id‰ss‰ oli niin kirkasta ja kullalle hohtavaa, ett‰ me,
+s.o. alikapteeni ja min‰ unohdimme rajuilman kokonaan. Alikapteeni oli
+niit‰ luonnonlapsia, joissa kauneuden ja luonnon suuruuden tunto on
+satakertaa voimakkaampi ja el‰v‰mpi kuin meid‰n innostuneiden kertojain
+sanat, tahi paperille kirjoitettu kuvaus.
+
+-- Olette varmaankin tottunut n‰ihin komeihin tauluihin? sanoin min‰
+h‰nelle.
+
+-- Kyll‰, vastasi h‰n; luotien vinkunaankin voi tottua, se tahtoo
+sanoa, oppii salaamaan syd‰mens‰ ‰‰nen.
+
+-- Olen kuullut p‰invastoin, muutamille vanhoille sotilaille t‰m‰n
+soiton olevan mieluista?
+
+-- Niinp‰ niinkin, jos niin tahdotte, on se mieluista; vaan silloin
+syd‰n lyˆ viel‰ kovemmin. Katsokaa, lis‰si h‰n osottaen it‰‰: -- mik‰
+ihana seutu!
+
+Ja todellakin, t‰mmˆist‰ maisemaa tuskin n‰hnen miss‰‰n: allamme oli
+Koishaur laakso, jonka Aragva ja er‰s toinen virta halkasivat kuni
+kaksi hopeista lankaa; sinert‰v‰ sumu liiti sit‰ pitkin, paeten aamun
+l‰mpimi‰ s‰teit‰; oikealla ja vasemmalla toinen toistaan korkeampina
+olivat lumipeitteiset tai pensasta kasvavat vuorenharjat; --
+et‰isyydess‰ n‰kyiv‰t samat vuoret, vaan jotka kaikki tarkemmin
+katsottuna olivat eri muotoisia.
+
+Lumi hohti hehkuvan punasena, niin kirkkaasti, niin iloisesti ett‰
+olisi tehnyt mieli j‰‰d‰ sinne ainiaaksi; aurinko pilkoitti esiin
+tummansinisen vuoren takaa, jonka ainoastaan tottunut silm‰ voi erottaa
+ukkospilvest‰; auringon yl‰puolella oli veripunanen juova, johon
+matkatoverini kiinnitti erityist‰ huomiota. "Sanoinhan teille",
+huudahti h‰n, "ett‰ t‰n‰‰n tulee rajuilma; t‰ytyy kiiruhtaa, muuten voi
+se saavuttaa meid‰t Krestovoi-vuorella. Eteenp‰in!" huusi h‰n
+kyytimiehille.
+
+Jarrujen asemasta pantiin ketjuja pyˆriin, etteiv‰t ne olisi
+luistaneet; miehet taluttivat hevosia suitsista ja n‰in me aloimme
+laskeutua. Oikealla oli jyrkk‰ kallio, vasemmalla niin suuri syvyys,
+ett‰ osetiinil‰iskyl‰ sen pohjalla n‰ytti p‰‰skysen pes‰lt‰; min‰
+s‰ps‰hdin, ajatellen, ett‰ t‰t‰ tiet‰, jolla kaksi kuormaa ei voi
+sivuttaa toisiaan, usein ˆiseen aikaan kulkee joku kuriiri, joka ei
+koskaan astu alas t‰risevilt‰ rattailtaan. Toinen kyytimiehist‰mme oli
+ven‰l‰inen, jaroslavilainen talonpoika, toinen osetiinil‰inen.
+Osetiinil‰inen talutti keskim‰ist‰ hevosta hyvin varovaisesti, antaen
+toisten tulla vapaina j‰less‰, vaan suruton ven‰l‰isemme ei edes
+laskeutunut istuimeltaan. Huomautettuani h‰nelle, ett‰ h‰n voisi edes
+matkalaukkuni vuoksi nousta rattailta, koska en itse tuntenut halua
+l‰hte‰ hakemaan sit‰ hornan suusta, vastasi h‰n minulle: "No, herra!
+jos Jumala sallii, tulemme yht‰ hyvin perille kuin toisetkin, emmeh‰n
+ole ensim‰isin‰!" -- ja h‰n oli oikeassa; me olisimme yht‰ hyvin
+voineet olla perille p‰‰sem‰tt‰, vaan p‰‰simme kuitenkin. Ja jos kaikki
+ihmiset enemm‰n ajattelisivat, tulisivat he vakuutetuiksi siit‰, ettei
+el‰m‰ ole sen arvoinen, ett‰ siit‰ kannattaisi niin paljon huolehtia...
+
+Ehk‰ te tahdotte kuulla lopun kertomukseen Belasta? -- Ensiksikin min‰
+en kirjoita tarua, vaan matkamuistelmia, enk‰ siis mitenk‰‰n voi
+pakottaa alikapteenia kertomaan, ennenkun h‰n itse alkaa. Siis
+odottakaa hetkinen, taikka k‰‰nt‰k‰‰ joku lehti, vaan en kehottaisi
+sit‰ tekem‰‰n sill‰ ylimeno Krestovoi-vuoren poikki (taikka niinkuin
+oppinut Gamba sit‰ kutsuu, le Mont St. Christophe) ansaitsee huomiota.
+Ja n‰in me laskeuduimme Gut-vuorelta laaksoon. T‰m‰ laakso oli t‰ynn‰
+lumikinoksia, muistuttaen meille jokseenkin el‰v‰sti Saratovia, Tambovia
+ja monta muuta rakasta paikkaa is‰nmaassamme.
+
+"Kas niin, nyt ollaan Krestovoi-vuorella!" sanoi alikapteeni osottaen
+lumipeittoista vuorenkukkulaa; sen huipulla h‰‰mˆtti kivinen risti, ja
+sen sivulla oli tuskin huomattava tie, jota kuljetaan silloin kun lumi
+tukkii oikean tien: kyytimiehemme ilmottivat, ettei railoja viel‰ ole
+ollut, ja s‰‰st‰‰kseen hevosia, ajoivat ymp‰ri. K‰‰nnˆksess‰ kohtasimme
+muutamia osetiinej‰, jotka tarjosivat apuaan tarttuen pyˆriin, ja
+huutaen alkoivat pid‰tell‰ ajopelej‰mme. Tie oli vaarallinen: oikealla
+riippuivat p‰ittemme p‰‰ll‰ lumikinokset, jotka n‰yttiv‰t mill‰
+hetkell‰ tahansa olevan valmiit putoamaan; tie oli kapea, toisin
+paikoin lumi upotti, paikottain oli se muodostunut j‰‰ksi auringon
+s‰teiden ja yˆkylmien vaikutuksesta, niin ett‰ me itse kuljimme hyvin
+vaivaloisesti eteenp‰in; hevosemme upposivat alinomaa; -- vasemmalla
+ammotti halkeama, jonka pohjalla virtasi puro, v‰liin kadoten j‰‰kuoren
+alle, v‰liin vaahtoisena kiiruhtaen mustien kivien yli. Kahdessa
+tunnissa tuskin olimme ehtineet kiert‰‰ Krestovoi-vuoren -- siis kaksi
+virstaa kahdessa tunnissa! Sill‰v‰lin pilvet laskeutuivat, alkoi sataa
+rakeita ja sen j‰lkeen lunta; kivinen risti katosi sumuun, joka
+aaltomaisena levisi id‰st‰... Kerrotaan Pietari I:sen pystytt‰neen
+t‰m‰n ristin matkallaan Kaukaasiassa; vaan ensiksi, ei Pietari k‰ynyt
+kun Dagestanissa saakka, ja toiseksi on ristiin kirjoitettu suurilla
+kirjaimilla, ett‰ sen on pystytt‰nyt kenraali Jermoloff v. 1824. Vaan
+kirjoituksesta huolimatta on luulo yleinen, varsinkaan kun emme ole
+tottuneet luottamaan p‰‰llekirjoituksiin.
+
+P‰‰st‰ksemme Kobin asemalle meid‰n t‰ytyi kulkea viel‰ noin viisi
+virstaa upottavassa lumessa ja j‰isten vuorien yli. Hevosemme olivat
+n‰‰ntyneet, itse me vilusta v‰risimme; tuuli ulvoi yh‰ kovemmin ja
+kovemmin aivan kuin oma pohjatuulemme; ainoastaan sen villi sointu oli
+valittavampi, surunvoittoisempi. "Ja sin‰kin maanpakolainen", ajattelin
+min‰, "ik‰vˆit laajoja alankojasi! Siell‰ voit vapaasti hengitt‰‰,
+t‰‰ll‰ sin‰ tukehdut, t‰‰ll‰ on mielest‰si ahdasta, kuin kotkasta, joka
+huutaen lyˆ rautasta h‰kki‰‰n vastaan."
+
+-- Huonosti! sanoi alikapteeni: -- katsokaa ymp‰rill‰mme ei n‰y muuta
+kuin sumua ja lunta; voimme helposti pudota kuiluun tai j‰‰d‰ jonnekin
+solaan; ja tuolla alhaalla on kait Baidera-virta niin tulvillaan
+ettemme mitenk‰‰n p‰‰se yli. Olen kyll‰stynyt koko Aasiaan! sek‰
+ihmiset, ett‰ joet -- kaikki ovat samanlaisia.
+
+Kyytimiehet huutaen ja toruen lˆiv‰t hevosia, jotka eiv‰t tahtoneet
+liikkua paikaltaan.
+
+"Teid‰n ylh‰isyytenne", sanoi yksi heist‰ vihdoin: "emme mitenk‰‰n voi
+ehti‰ t‰n‰‰n Kobiin; ettekˆ m‰‰r‰isi k‰‰ntym‰‰n vasemmalle niin kauan
+kun on mahdollista? Tuolla vuorenrinteell‰ h‰‰mˆtt‰‰ jotain,
+luultavasti kyl‰; huonon ilman sattuessa pys‰htyv‰t matkustajat aina
+sinne; he lupaavat vied‰ meid‰t sinne, jos annatte juomarahaa", lis‰si
+h‰n osottaen osetiinej‰.
+
+-- Tied‰n veliseni, sanomattasikin! sanoi alikapteeni. -- Kyll‰ ne ovat
+aina valmiita ottamaan juomarahoja.
+
+-- Myˆnt‰k‰‰ kuitenkin, sanoin min‰, -- ilman heit‰ meid‰n olisi paljon
+pahempi.
+
+-- Aivan niin, aivan niin, murisi h‰n: -- en k‰rsi saattajia! he ovat
+valmiit hyˆtym‰‰n pienimm‰st‰kin; aivan kun ei ilman heit‰ voisi lˆyt‰‰
+tiet‰.
+
+K‰‰nnyimme vasemmalle ja monien ponnistusten j‰lkeen saavuimme
+viheli‰iseen turvapaikkaamme. Repaleiset is‰nt‰mme ottivat meid‰t
+vastaan syd‰mellisesti. J‰lest‰p‰in sain kuulla, ett‰ hallitus maksaa
+heille ja syˆtt‰‰ heit‰ siit‰, ett‰ antavat suojaa rajuilmaan
+joutuneille matkustajille.
+
+-- Kaikki on hyv‰ksi mik‰ tapahtuu, sanoin min‰ astuen tulen luo: --
+nyt Te kerrotte loppuun tarinan Belasta; olen varma ettei se siihen
+loppunut.
+
+-- Mist‰ sen p‰‰t‰tte? vastasi alikapteeni, silm‰‰ iskien ja viekkaasti
+hymyillen.
+
+-- Siksi ettei niin voi olla: mik‰ kerran alkaa kummallisesti, sen
+t‰ytyy loppuakin samoin.
+
+-- Olette arvannut oikein.
+
+-- Olen iloinen.
+
+-- Kyll‰h‰n teid‰n kelpaa iloita, vaan aina sit‰ muistaessani tulee
+mieleni murheelliseksi. Bela oli hyv‰ tyttˆ. Lopulta pidin h‰nest‰ kuin
+tytt‰rest‰ ja h‰nkin rakasti minua. Minun t‰ytyy teille sanoa ettei
+minulla ole perhett‰: is‰st‰ ja ‰idist‰ en ole pariinkymmeneen vuoteen
+kuullut mit‰‰n, vaimoa en huomannut hankkia ajoissa, eik‰ nyt en‰‰
+sovi, olin iloinen saadessani jonkun hemmoteltavakseni. Tavallisesti
+h‰n joko lauloi meille, tai tanssi lesginkkaa... Ja miten h‰n tanssi!
+Olen n‰hnyt meid‰n kaupunkilaisneitosia, olinpa kerran Moskovassa
+vapaasukuisessa seurassakin, parikymment‰ vuotta sitten, -- vaan he
+eiv‰t riit‰ t‰m‰n rinnalle! Ei, se on aivan toista!... Grigorij
+Aleksandrovitsh puki h‰nt‰ kuin nukkea, hyv‰illen ja hemmotellen; on
+aivan ihme, miten h‰n kaunistui luonamme! P‰ivetys katosi kasvoilta
+sek‰ k‰sist‰ ja poskilla heloitti puna... Miten iloinen h‰n oli ja
+semmoinen veitikka, tavallisesti teki pient‰ pilaa minusta... Jumala
+antakoon h‰nelle anteeksi!...
+
+-- Kuinka k‰vi, kun te ilmoititte h‰nelle is‰ns‰ kuolemasta?
+
+-- Pidimme h‰nelt‰ salassa kunnes h‰n oli ehtinyt kotiutua; kun sen
+sanoimme, itki h‰n pari p‰iv‰‰ ja sitten unohti.
+
+-- Nelj‰ kuukautta kului eritt‰in hyvin. Taisin jo puhua, ett‰
+Petshorin rakasti mets‰styst‰; tavallisesti meni mets‰‰n
+ampumaan villisikoja tai mets‰vuohia. -- Huomasin h‰nen tulleen
+synkk‰mieliseksi; kulki vaan k‰det sel‰n takana edestakasin huoneessa;
+ja sitten kerran l‰ksi mets‰‰n sanomatta kenellek‰‰n sanaakaan, -- oli
+koko aamup‰iv‰n poissa, t‰m‰ tapahtui kerran, toisen ja aina vaan
+useammin... "Eiv‰t ole asiat oikein", ajattelin min‰: "musta kissa on
+kai juossut heid‰n v‰list‰‰n".
+
+-- Er‰‰n‰ aamuna menen heid‰n luokseen -- viel‰kin n‰en aivan silmieni
+edess‰ kuinka Bela istui s‰ngyss‰, yll‰‰n musta silkkipuku, niin
+kalpeana, niin surullisena, ett‰ min‰ s‰ik‰hdin. -- Miss‰ on Petshorin?
+kysyin.
+
+-- Mets‰st‰m‰ss‰.
+
+-- L‰ksikˆ h‰n t‰n‰‰n?
+
+Bela vaikeni, h‰nen n‰ytti olevan vaikea puhua.
+
+-- Ei, vaan eilen, sanoi h‰n vihdoin syv‰sti huoaten.
+
+-- Olisikohan h‰nelle mahtanut tapahtua jotain?
+
+-- Eilen ajattelin koko p‰iv‰n samaa, vastasi h‰n kyyneltens‰ l‰pi; --
+keksin kaikellaisia onnettomuuksia; v‰liin kuvittelin mets‰sian
+haavoittaneen h‰nt‰, v‰liin tsetshentzin vieneen h‰net vuorille... Vaan
+t‰n‰‰n minusta tuntuu ettei h‰n en‰‰ rakastakaan minua.
+
+-- Et todellakaan voinut pahempaa keksi‰!
+
+-- H‰n alkoi itke‰, sitten nosti ylpe‰sti p‰‰t‰‰n, kuivasi kyyneleet ja
+jatkoi:
+
+-- Jos h‰n ei rakasta minua, niin kuka est‰‰ h‰nt‰ l‰hett‰m‰st‰ minut
+kotiin? Min‰ en h‰nt‰ pakota. Jos t‰mmˆist‰ tulee jatkumaan l‰hden itse
+pois: en ole orja -- olen ruhtinaan tyt‰r!...
+
+-- Rupesin h‰nt‰ lohduttamaan. -- Kuulehan Bela, eih‰n Petshorin voi
+ik‰‰ns‰ istua kotona kuin kiinni ommeltuna hameeseesi: h‰n on viel‰
+nuori, pit‰‰ mets‰st‰misest‰ -- aikansa kun kulkee, palaa takasin; vaan
+jos sin‰ rupeat suremaan, ik‰vistyy h‰n sinuun.
+
+-- Totta on, vastasi h‰n: tulen iloiseksi -- ja ‰‰neens‰ nauraen otti
+h‰n tamburiininsa, alkaen laulaa, tanssia ja hyppi‰ ymp‰rill‰ni; mutta
+ilonsa ei ollut kest‰v‰‰, h‰n heitt‰ytyi vuoteelle peitt‰en kasvonsa
+k‰siin.
+
+-- Mit‰ oli minun teht‰v‰? En ollut, tied‰ttekˆ, koskaan tottunut
+seurustelemaan naisten kanssa; koetin keksi‰ jotain lohdutukseksi, vaan
+en lˆyt‰nyt mit‰‰n; jonkun aikaa molemmat vaikenimme. Perin tuskallinen
+asema.
+
+Vihdoin sanoin h‰nelle: "tahdotko, menn‰‰n k‰velem‰‰n vallille, ilmakin
+on niin ihana!" -- T‰m‰ tapahtui syyskuussa. Kuljimme ‰‰nettˆmin‰
+edestakasin vallilla, viimein h‰n istui turpeelle, ja min‰ istuin h‰nen
+viereens‰. Naurattaa, kun muistelen, juoksin h‰nen j‰less‰‰n kuin
+mik‰kin lapsentyttˆ.
+
+-- Linnoituksemme oli korkealla paikalla, ja n‰kˆala vallilta oli mit‰
+ihanin, toisella puolen leve‰ keto, joka p‰‰ttyi vuorijonoon asti
+ulottuvaan mets‰‰n; siell‰ t‰‰ll‰ savusivat mˆkit ja karjalaumat olivat
+laitumella; toisella puolen juoksi matala joki, jonka rantoja peitti
+tihe‰ pensaikko. Me istuimme niin, ett‰ voimme n‰hd‰ kumpaankin
+suuntaan. Yht‰kki‰, n‰en mets‰st‰ jonkun tulevan ratsain harmaalla
+hevosella; h‰n tulee yh‰ l‰hemm‰ksi ja vihdoin pys‰htyy virran toiselle
+puolelle noin sadan askeleen p‰‰h‰n meist‰, alkaen pyˆritt‰‰ hevostaan
+kuin mielipuoli. Mik‰ sattuma!... "Katsohan Bela nuorilla silmill‰si,
+sanoin min‰: mik‰h‰n ratsastaja tuo on, ja ket‰ on h‰n tullut
+huvittamaan?..."
+
+-- H‰n katsoi ja huudahti: "se on Kasbitsh!"
+
+-- Voi sit‰ roistoa! onkohan h‰n tullut pilkkaamaan meit‰? -- Katson,
+ja todellakin se on Kasbitsh, naamansa oli musta, pukunsa repaleinen ja
+likanen, niinkuin ennenkin.
+
+-- "H‰nell‰ on is‰ni hevonen", sanoi Bela, tarttuen k‰teeni, h‰n vapisi
+kuin lehti, ja silm‰ns‰ s‰kenˆiv‰t. -- Jaha! ajattelin min‰, et
+sin‰k‰‰n lintuseni, ole vailla ryˆv‰riverta!
+
+-- Tuleppas t‰nne sanoin vahtisotamiehelle: tarkasta pyssysi ja poista
+tuo nuori mies. -- "Kuulen, teid‰n ylh‰isyytenne; vaan eih‰n tuo seiso
+paikallaan..." K‰ske! sanoin min‰, nauraen. -- Kuuleppa, yst‰v‰ni huusi
+vahtisotamies huitoen k‰dell‰‰n: "odota pikkusen, mit‰ siin‰ pyˆrit
+kuni villikissa?" -- Kasbitsh pys‰ytti hevosensa ja alkoi kuunnella,
+luullen ett‰ h‰nen kanssaan tahdotaan keskustella. Krenatˆˆrini
+laukasi, mutta ohi, -- ruudin savun l‰pi n‰kyi vaan miten Kasbitsh
+kiiti eteenp‰in.
+
+-- Etkˆ h‰pe‰! sanoin vahtisotamiehelle.
+
+-- Teid‰n ylh‰isyytenne! kuolemaan se meni: ovat ihmeellist‰ v‰ke‰, ei
+niit‰ yhdell‰ iskulla tapa.
+
+-- Noin nelj‰nnes tunnin kuluttua palasi Petshorin mets‰stysretkelt‰‰n.
+Bela heitt‰ytyi h‰nen kaulaansa, lausumatta yht‰‰n valitusta tahi
+moitetta t‰m‰n pitk‰llisest‰ poissa olosta... Min‰kin olin jo suuttunut
+h‰neen. -- Ajatelkaas, puhuin min‰ h‰nelle: Kasbitsh oli juuri tuolla
+virran toisella puolella, ja me yritimme ampua h‰net; olisitte voinut
+sattua yhteen h‰nen kanssaan. N‰m‰ vuoristolaiset ovat kostonhimoista
+v‰ke‰; luuletteko, ettei h‰n aavista ett‰ te olitte Asamatin apuna? Ja
+lyˆn vaikka vetoa, ett‰ h‰n t‰n‰‰n tunsi Belan. Vuosi sitten tied‰n
+Belan hyvin miellytt‰neen h‰nt‰ -- h‰n itse puhui minulle siit‰ -- ja
+luultavaa on, ett‰ jos olisi voinut saada tarvittavat lunnaat, olisi
+kosinut... Petshorin vaipui mietteisiin. -- Niin, vastasi h‰n: t‰ytyy
+tulla varovaisemmaksi... Bela! t‰st‰ p‰iv‰st‰ alkaen ei sinun pid‰
+menn‰ linnoituksen valleille. -- Illalla oli meill‰ pitk‰ keskustelu:
+minua harmitti h‰nen muuttunut k‰ytˆksens‰ tyttˆ parkaa kohtaan; paitsi
+sit‰ ett‰ h‰n ainakin puolip‰iv‰‰ oli mets‰st‰m‰ss‰, oli h‰nen
+k‰ytˆksens‰ kylm‰‰, ja h‰n hyv‰ili h‰nt‰ harvoin. Bela alkoi kuihtua
+huomattavasti; kasvonsa kalpenivat, suuret silm‰ns‰ himmeniv‰t. Kun
+joskus kysyin h‰nelt‰: mit‰ huokailet, Bela! painaako sinua suru? "Ei."
+Tahdotko jotain? "En." Ik‰vˆitkˆ vanhempiesi luo? "Ei minulla ole
+vanhempia." Tapahtui niinkin ettei h‰nt‰ p‰iv‰kauteen saanut muuta
+puhumaan kuin "niin", ja "ei".
+
+-- T‰st‰h‰n min‰ rupesinkin puhumaan Petshorinille. "Kuulkaa, Maksim
+Maksimovitsh" vastasi h‰n; "minulla on onneton luonne: kasvatusko lie
+tehnyt minut semmoiseksi, vai Jumalako lie luonut -- en tied‰; tied‰n
+vaan sen, ett‰ tuntiessani olevani syyllinen jonkun toisen
+onnettomuuteen, olen itsekin onneton. Tietysti, t‰m‰ on huono
+puolustus, vaan niin nyt kuitenkin on. Aikaisimmassa nuoruudessani,
+nimitt‰in silloin kun p‰‰sin vanhempieni holhouksesta, rupesin el‰m‰‰n
+hurjasti, nauttien kaikesta mit‰ voi saada rahalla ja nyt tietysti
+inhoan n‰it‰ nautinnoita. Sitten tulin suureen maailmaan, jonka
+seurapiiriin kyll‰styin hyvin pian; rakastuin hienoihin kaunottariin ja
+sain vastarakkautta; mutta heid‰n rakkautensa vaan kiihotti
+itserakkauttani, j‰tt‰en syd‰men tyhj‰ksi... aloin lukea, tahdoin oppia
+-- tieteetkin kyll‰styttiv‰t minua; huomasin ettei onni riipu
+kunniasta, ei v‰h‰‰k‰‰n, sill‰ onnellisimmat ihmiset ovat tyhmi‰,
+kunnia on sattuma eik‰ sen saavuttamiseksi tarvitse muuta kuin v‰h‰n
+sukkeluutta. Olin kyll‰stynyt el‰m‰‰n... Pian siirrettiin minut
+Kaukaasiaan: se oli onnellisinta aikaa el‰m‰ss‰ni. Toivoin, ettei ik‰v‰
+asusta tshetshenil‰isten luotien keskell‰ -- vaan turhaan: kuukauden
+kuluttua olin niin tottunut niiden surinaan ja kuoleman l‰heisyyteen,
+ett‰ todella, kiinnitin enemm‰n huomiota hyttysiin, ja el‰m‰ tuntui
+entist‰kin tukalammalta, sill‰ olin kadottanut viimeisen toivoni. Kun
+ensi kerran n‰in Belan kotonaan, kun ensi kerran, pit‰en h‰nt‰
+syliss‰ni, suutelin h‰nen tummia kiharoitaan, min‰ tyhmyri luulin h‰nt‰
+enkeliksi, jonka s‰‰liv‰ kohtalo oli minulle l‰hett‰nyt... Taaskin
+erehdyin... villin naisen rakkaus ei juuri paljon eroa maailmannaisen
+lemmest‰; edellisen h‰vyttˆmyys ja syd‰men raakuus vaikuttaa yht‰
+vastenmielisesti kuin j‰lkim‰isen teeskentely. Jos niin tahdotte,
+rakastan h‰nt‰ viel‰kin, olenhan h‰nelle kiitollinen muutamista
+onnellisista hetkist‰... annan vaikka henkeni h‰nen edest‰‰n mutta
+minun on ik‰v‰ h‰nen kanssaan... Olenko tyhm‰ vaiko julmuri -- en
+tied‰; varmaa on, ett‰ s‰‰li‰ ansaitsen yht‰ paljon kuin h‰n, ehk‰
+enemm‰nkin. Maailma on turmellut sieluni, mielikuvitukseni on levoton,
+eik‰ syd‰meni lˆyd‰ tyydytyst‰; ei mik‰‰n riit‰ minulle, suruun totun
+yht‰ helposti kuin nautintoonkin, ja el‰m‰ni tuntuu p‰iv‰ p‰iv‰lt‰
+tyhjemm‰lt‰; on en‰‰ ainoastaan yksi mahdollisuus: matkustaminen. Heti
+kun p‰‰sen, l‰hden, vaan en Eurooppaan, Jumala varjelkoon! -- menen
+Ameriikkaan, Arapiaan ja Intiaan, -- ehk‰ kuolema tulee jossain
+matkalla. Toivon ainakin, ettei t‰m‰ viimeinen lohdutus niin pian lopu,
+kun tuulet ja huonot tiet antavat siihen apuansa." -- N‰in h‰n puheli
+ja sanansa tarttuivat muistiini, sill‰ ensi kertaa el‰m‰ss‰ni kuulin
+viisikolmatta vuotiaan ihmisen noin puhuvan, ja Jumala suokoon sen
+olevan viimeisenkin... Mik‰ kumma! --
+
+Olkaa hyv‰ sanokaa, jatkoi alikapteeni, minun puoleeni k‰‰ntyen: teh‰n
+olette ollut p‰‰kaupungissa, ja aivan ‰skett‰in -- onko siell‰ kaikki
+nuoriso samanlaista?
+
+Vastasin, ett‰ on paljon ihmisi‰, jotka puhuvat aivan samaa;
+luultavasti on niit‰kin, jotka puhuvat totta, ja ett‰ el‰m‰‰n
+kyll‰styminen niinkuin kaikki muodit, alkaen ylimmist‰ kerroksista,
+siirtyy alempiin, mutta usein eniten k‰rsiv‰t koettavat salata
+onnettomuuttaan kuin jotain pahetta. Alikapteeni ei ymm‰rt‰nyt n‰it‰
+hienouksia, pudisti vain p‰‰t‰‰n viekkaasti hym‰ht‰en.
+
+-- Arvelen ett‰ ranskalaiset ovat tuoneet ik‰vˆimisen?
+
+-- Ei, vaan englantilaiset.
+
+-- Vai niin!... vastasi h‰n; heh‰n ovatkin aina olleet ilmeisi‰
+juoppoja!...
+
+Ehdottomasti muistui mieleeni er‰s moskovalainen rouva, joka vakuutti
+ettei Byron ollut muuta kuin juoppo. Muuten, oli alikapteenin huomautus
+anteeksi annettava. Voidakseen pysy‰ raittiina, h‰n tietysti koetti
+uskotella, ett‰ kaikki onnettomuus maailmassa johtuu juoppoudesta.
+
+Kuitenkin h‰n jatkoi kertomustaan n‰in:
+
+-- Kasbitshia ei n‰kynyt sen j‰lkeen. Vaan, en tied‰ miksi, en voinut
+karkoittaa mielest‰ni ajatusta, ettei h‰n t‰nne turhaan tullut, ja ett‰
+h‰nell‰ oli jotain pahaa mieless‰‰n. -- Kerran saa Petshorin minut
+l‰htem‰‰n kanssaan mets‰sianpyyntiin. Otimme viisi sotamiest‰ mukaan
+ja l‰ksimme varhain aamulla. Kello kymmeneen asti kuleksimme
+kaislikossa ja mets‰ss‰, vaan otusta emme n‰hneet. "Emmekˆ k‰‰ntyisi?"
+sanoin min‰. "Ei maksa vaivaa yritt‰‰? on kai sattunut onneton
+p‰iv‰!" Vaan kuumuudesta ja v‰symyksest‰ huolimatta, ei Grigorij
+Aleksandrovitsh tahtonut palata ilman saalista... Semmoinen oli mies:
+mink‰ kerran sai p‰‰h‰ns‰, ei hellitt‰nyt; ‰iti oli varmaankin lapsena
+hemmotellut... Puolenp‰iv‰n aikaan lˆysimme kirotun mets‰sian: pau!
+pau! ei sattunut: pakeni kaislikkoon... olihan sattunut onneton
+p‰iv‰!... Ja niin me v‰h‰n lev‰hdetty‰mme l‰ksimme kotiin.
+
+-- Ratsastimme vieretysten ‰‰nettˆmin‰, annoimme suitsien riippua ja
+olimme jo melkein linnoituksen kohdalla, puut vaan estiv‰t meit‰ sit‰
+n‰kem‰st‰. Yht‰kki‰ kuului laukaus... katsahdimme toisiimme: meid‰t
+valtasi sama ep‰ilys... P‰istikkaa nelistimme laukausta kohti, ja
+n‰imme vallille kokoontuneen joukon sotamiehi‰, jotka kaikki osottivat
+kedolle p‰in, jota pitkin n‰imme ratsastajan kiit‰v‰n t‰ytt‰
+laukkaa, pidellen jotain valkoista esinett‰ satulassaan. Grigorij
+Aleksandrovitsh kiljasi, tempasi pyssyn olalta -- ja samaa tiet‰; min‰
+per‰ss‰.
+
+-- Onneksi eiv‰t hevosemme olleet v‰syneit‰, joten me nopeasti
+l‰hestyimme ratsastajaa... Ja viimein min‰ tunsin Kasbitshin, vaan en
+voinut erottaa mit‰ h‰n piteli satulassaan. Huusin Petshorinille: se on
+Kasbitsh!... H‰n katsahti minuun p‰‰t‰‰n nyˆk‰ytt‰en ja lˆi hevostaan.
+
+-- Nyt olimme en‰‰ muutaman askeleen p‰‰ss‰ h‰nest‰; lieneekˆ h‰nen
+hevosensa ollut v‰synyt tai huonompi kuin meid‰n, vaan kovista
+ponnistuksistaan huolimatta ei se mennyt eteenp‰in. Luulen h‰nen t‰ll‰
+hetkell‰ muistaneen Karagesi‰‰n...
+
+-- N‰in Petshorinin t‰ht‰‰v‰n... "ƒlk‰‰ ampuko!" huusin h‰nelle: --
+"s‰‰st‰k‰‰ latinkia; saammehan me h‰net kiinni muutenkin." -- Kyll‰ se
+nuoriso aina tulistuu sopimattomasti... -- Kuului laukaus, luoti oli
+l‰vist‰nyt hevosen takajalan: vauhdissa meni se viel‰ jonkun hypp‰yksen
+eteenp‰in, kompastui ja kaatui polvilleen. Kasbitsh hypp‰si maahan, ja
+silloin me huomasimme h‰nen pitelev‰n hunnutettua naista... Se oli
+Bela... Bela raukka! Kasbitsh huusi meille jotain omalla kielell‰‰n ja
+kohotti miekkansa h‰nt‰ kohti... Ei ollut aikaa vitkasteluun. Nyt
+ammuin min‰ vuorostani, onnistuen; kuula sattui luultavasti h‰nen
+olkap‰‰h‰ns‰, koska miekka heti putosi h‰nen k‰dest‰‰n. Savun
+hajaannuttua n‰imme maassa makaavan h‰nen hevosensa ja sen vieress‰
+Belan; vaan Kasbitsh heitetty‰‰n pyssyns‰ pensastoon kiipesi kuin kissa
+jyrkk‰‰ kallionsein‰‰ ylˆs. Teki mieleni ampua h‰net sielt‰, vaan ei
+pyssyni ollut ladattu! Hypp‰simme satulasta, kiiruhtaen Belan luo. H‰n
+raukka makasi liikkumattomana, veri vuoti haavasta virtana... Peto!
+olisi edes syd‰meen pist‰nyt, niin olisi heti henki paennut, vaan kun
+lyˆ selk‰‰n... semmoinen on oikea ryˆv‰rin isku! Bela oli tajuttomana.
+Me revimme hunnun, sitoen sill‰ haavan niin kire‰sti kun voimme.
+Turhaan suuteli Petshorin h‰nen kylmi‰ huuliaan -- ei mik‰‰n saattanut
+h‰nt‰ tuntoihinsa.
+
+-- Petshorin istui satulaan, min‰ nostin Belan h‰nen eteens‰; h‰n
+kietoi k‰tens‰ h‰nen ymp‰rilleen, ja hiljalleen me l‰ksimme
+paluumatkalle. Lyhyen vaitiolon j‰lkeen sanoi Grigorij Aleksandorvitsh
+minulle: "Kuulkaahan Maksim Maksimovitsh, t‰ll‰ tavalla emme saa h‰nt‰
+el‰v‰n‰ kotiin." -- "Totta on!" sanoin min‰, ja me l‰ksimme eteenp‰in
+t‰ytt‰ laukkaa. -- Linnoituksen portilla odotti meit‰ suuri joukko
+ihmisi‰. Varovasti kannoimme haavoitetun Petshorinin asuntoon l‰hett‰en
+kutsumaan l‰‰k‰ri‰. Vaikka t‰m‰ olikin juovuksissa, tuli h‰n kuitenkin,
+tutki haavan ja ilmoitti, ettei sairas voi el‰‰ p‰iv‰‰ kauemmin, mutta
+h‰n erehtyi...
+
+-- Paraniko h‰n? kysyin alikapteenilta, tarttuen h‰nen k‰teens‰
+ilostuneena.
+
+-- Ei, vastasi h‰n, vaan l‰‰k‰ri erehtyi p‰iviss‰, sill‰ h‰n eli kaksi
+p‰iv‰‰.
+
+-- Selitt‰k‰‰h‰n minulle, miten Kasbitsh ryˆsti h‰net?
+
+-- Se tapahtui n‰in: huolimatta Petshorinin kiellosta Bela poistui
+linnoituksesta, mennen joelle. Oli hyvin kuuma; h‰n istui kivelle
+laskien jalat veteen. Kasbitsh hiipi takaa, tukki h‰nelt‰ suun ja vei
+pensastoon, jossa hypp‰si hevosen selk‰‰n, l‰htien laukkaamaan!
+Kuitenkin oli tyttˆ ehtinyt kerran huutaa; vahtisotamiehet
+h‰mmentyiv‰t, ampuivat, mutta ohi, ja silloin juuri me saavuimme
+paikalle.
+
+-- Vaan mink‰t‰hden tahtoi Kasbitsh vied‰ h‰net?
+
+-- No mutta! ovathan tsherkessit tunnettuja varastamishalustaan: mik‰
+on otettavissa, se otetaan; vaikka ei olisi tarpeenkaan, niin
+varastetaan... pyyd‰n, antakaa se heille anteeksi! -- Sit‰paitsi olihan
+h‰n ihastunut Belaan.
+
+-- Ja Bela kuoli?
+
+-- Kuoli; vaan kauan sai k‰rsi‰, ja kyll‰ mekin n‰imme vaivaa. Noin
+kymmenen ajoissa illalla tuli h‰n tajuihinsa; me istuimme vuoteen
+vieress‰; heti silm‰ns‰ aukaistuaan, alkoi h‰n kutsua Petshorinia. --
+"Olen luonasi armaani!" vastasi t‰m‰ ottaen h‰nen k‰tens‰. -- "Min‰
+kuolen!" sanoi Bela. -- Koetimme lohduttaa h‰nt‰: puhuimme, ett‰
+l‰‰k‰ri on luvannut parantaa h‰net. H‰n pudisti p‰‰t‰‰n k‰‰ntyen
+sein‰‰n p‰in; h‰n ei olisi tahtonut kuolla!... Yˆll‰ h‰n alkoi
+hourailla; p‰‰t‰ poltti, vaan pitkin ruumista kulki kylmi‰ v‰reit‰ ja
+h‰n halusi kotiin vuoristoon... Sitten h‰n puhui Petshorinista; kutsui
+h‰nt‰ lempinimill‰ ja moitti siit‰, ettei t‰m‰ en‰‰ rakastanut
+armastaan. Petshorin kuunteli h‰nt‰ vaieten, p‰‰ k‰sien nojaan
+painuneena; en huomannut yht‰‰n kyynelt‰ h‰nen silmiss‰‰n. Eikˆ h‰n
+voinut itke‰, taikka hillitsikˆ h‰n itsens‰ -- en tied‰; mit‰ minuun
+tulee -- en ole koskaan n‰hnyt mit‰‰n liikuttavampaa. -- Aamupuolella
+h‰n lakkasi hourailemasta; tunnin verran h‰n makasi liikkumattomana,
+kalpeana, ja niin heikkona ett‰ tuskin voi huomata h‰nen hengitt‰v‰n;
+sitten h‰nen tuli helpompi olla ja h‰n alkoi puhua, vaan ajatelkaas
+mist‰?... Ainoastaan kuoleva voi ajatella semmoista!... H‰n rupesi
+suremaan ettei h‰n ollut kristitty, eik‰ h‰nen sielunsa voi kohdata
+Grigorij Aleksandrovitshin sielua toisessa maailmassa, vaan ett‰ toinen
+nainen tulee h‰nen kumppanikseen taivaan valtakunnassa. Pisti p‰‰h‰ni
+kastaa h‰net ennen kuolemistaan. Ehdotin h‰nelle sit‰; h‰n katsoi
+minuun ep‰rˆiv‰n n‰kˆisen‰, voimatta lausua sanaakaan; viimein h‰n
+ilmoitti tahtovansa kuolla samassa uskossa, kuin oli syntynytkin. N‰in
+kului koko p‰iv‰. Kuinka h‰n oli muuttunut yhdess‰ p‰iv‰ss‰! Kalpeat
+posket olivat painuneet, suuret silm‰t tuijottivat pyˆrein‰, huulet
+kuumeisina hehkuivat. H‰n tunsi sis‰llist‰ polttoa, aivan kuin rinnassa
+olisi ollut tulikuuma rauta.
+
+-- Tuli yˆ; emme ummistaneet silmi‰mme, emmek‰ poistuneet h‰nen
+vuoteensa ‰‰rest‰. Bela k‰rsi kovia tuskia, h‰n valitti ja aina kivun
+v‰h‰n helpottaessa koetti vakuuttaa Petshorinille, ett‰ h‰nen on
+parempi, kehotti h‰nt‰ menem‰‰n maata, suuteli h‰nen k‰tt‰‰n, jota koko
+ajan piteli omissaan. Aamulla h‰n alkoi tuntea kuolon tuskia. Heitellen
+edes takasin vuoteella h‰n repi siteen auki, joten veri alkoi vuotaa
+uudestaan. Kun olimme sitoneet haavan, rauhoittui h‰n hetkeksi, pyyt‰en
+Petshorinin suutelemaan itse‰‰n. T‰m‰ polvistui s‰ngyn eteen, kohotti
+Belan p‰‰t‰ tyynylt‰ ja painoi huulensa h‰nen kylmeneville huulilleen;
+tyttˆ kietoi vapisevat k‰tens‰ lujasti h‰nen kaulaansa, aivan kun olisi
+tahtonut antaa h‰nelle sielunsa t‰ss‰ suutelossa... -- Vaan kyll‰ se
+oli hyv‰, ett‰ h‰n kuoli! Mihin h‰n olisi joutunut jos Grigorij
+Aleksandrovitsh olisi h‰net hylj‰nnyt? Ja niin kyll‰ olisi k‰ynyt,
+ennemmin tai myˆhemmin.
+
+-- Aamupuolen p‰iv‰‰ oli h‰n hiljainen ja k‰rsiv‰llinen, vaikka
+l‰‰k‰rimme kuinka olisi kiusannut h‰nt‰ hauteilla ja rohdoilla. -- Mit‰
+varten l‰‰kkeit‰, sanoin h‰nelle? Olettehan itse sanonut, ett‰ h‰n
+kuolee varmasti? "On kuitenkin parempi, vastasi h‰n, ett‰ omatunto on
+rauhallinen."
+
+-- Puolen p‰iv‰n j‰lkeen h‰nt‰ rupesi vaivaamaan kuumuus. Avasimme
+ikkunan, vaan ulkona oli kuumempi kuin huoneessa; panimme j‰‰t‰ vuoteen
+viereen, sek‰‰n ei auttanut. Tiesin t‰m‰n siet‰m‰ttˆm‰n kuumeen olevan
+l‰henev‰n lopun merkin, ja sanoin sen Grigorij Aleksandrovitshille.
+
+-- Vett‰, vett‰!... puhui sairas korisevalla ‰‰nell‰, kohottautuen
+vuoteelta.
+
+-- Petshorin kalpeni, tempasi lasin, t‰ytti sen vedell‰ ja antoi
+sairaalle. Ummistin silm‰ni ja aloin lukea rukousta -- en muista
+mit‰... Niin, veliseni, olen n‰hnyt paljon kuolevia ihmisi‰ sek‰
+sairaaloissa ett‰ taistelutantereella, vaan t‰m‰n kaltaista en
+koskaan!... T‰ytyy tunnustaa, ett‰ minua surettaa er‰s asia; nimitt‰in,
+ettei h‰n kertaakaan muistanut minua ennen kuolemaansa; ja min‰ kun
+rakastin h‰nt‰ kuin omaa tyt‰rt‰... No, Jumala antaa sen h‰nelle
+anteeksi!... Ja totta puhuen mit‰ varten olisi h‰nen pit‰nyt muistaa
+minua kuollessaan?...
+
+-- Vett‰ juotuaan, h‰nen oli helpompi ja parin minuutin kuluttua h‰n
+kuoli. Asetimme peilin huulien eteen -- kaikki oli lopussa!...
+
+Vein Petshorinin vallille k‰velem‰‰n; kauan me kuljimme edestakasin
+puhumatta sanaakaan. H‰nen kasvonsa eiv‰t ilmaisseet mit‰‰n erityist‰,
+ja minua rupesi harmittamaan. H‰nen sijassaan olisin kuollut surusta.
+Sitten h‰n istui varjoon ja alkoi piirt‰‰ kepill‰‰n hiekkaan. Rupesin
+lohduttamaan h‰nt‰ vain kohteliaisuudesta; h‰n kohotti p‰‰t‰‰n
+naurahtaen... Kylin‰ v‰ristys kulki l‰pi ruumiini... nousin, ja l‰ksin
+arkkua tilaamaan.
+
+-- Tein t‰m‰n mielihyv‰ll‰. Minulla oli palanen silkkikangasta, jolla
+vuorasin arkun, koristaen sen tsherkessil‰isill‰ hopeakalunoilla, joita
+Petshorin oli h‰nelle ostanut.
+
+-- Varhain seuraavana aamuna me hautasimme h‰net linnoituksen taakse
+virran reunalle, l‰helle sit‰ paikkaa, jossa h‰n viimeisen kerran oli
+istunut. Hautansa ymp‰rill‰ kasvaa nyt akasia- ja seljapuita. Ajattelin
+pystytt‰‰ ristin, vaan eih‰n se olisi sopinut; eih‰n h‰n ollut
+kristitty.
+
+-- Mitenk‰ Petshorinin k‰vi? kysyin min‰.
+
+-- H‰n oli kauan sairaana, laihtui ja kalpeni; vaan siit‰ saakka emme
+koskaan puhuneet Belasta; Huomasin sen olevan h‰nelle vastenmielist‰.
+
+-- Parin kuukauden kuluttua nimitettiin h‰net E:n rykmenttiin, ja h‰n
+matkusti Grusiaan.
+
+Siit‰ saakka emme ole tavanneet toisiamme... Muistelen jonkun ‰sken
+kertoneen ett‰ h‰n oli palannut Ven‰j‰lle, vaan k‰skykirjeiss‰ en ole
+m‰‰r‰yst‰ huomannut, vaikka eiv‰th‰n tiedot t‰nne asti saavu.
+
+Sitten h‰n puheli pitk‰t ajat siit‰, miten ik‰v‰‰ on saada uutiset
+vuotta myˆhemmin -- luultavasti karkoittaakseen surullisia muistoja.
+
+En keskeytt‰nyt h‰nt‰, mutta en kuunnellutkaan.
+
+Tunnin kuluttua p‰‰simme l‰htem‰‰n; rajuilma oli tauonnut, taivas
+kirkastunut ja me l‰ksimme.
+
+Matkalla k‰‰nsin keskustelun tahtomattanikin Belaan ja Petshoriniin.
+
+-- Ettekˆ kuulleet mit‰‰n Kasbitshista? kysyin min‰.
+
+-- Kasbitshistako? h‰nest‰ en todellakaan tied‰ mit‰‰n... Olen kuullut
+ett‰ shapsugien oikeassa sivustossa on joku Kasbitsh, joka punasessa
+kauhtanassa ratsastaa hiljalleen, v‰ist‰en luotiamme, ja aina
+kohteliaasti kumartaen, vaan tuskinpa lienee sama!...
+
+Kobissa erosin Maksim Maksimovitshista; min‰ jatkoin matkaa
+postihevosilla; h‰n ei voinut seurata minua painavan kuormansa vuoksi.
+Emme uskoneet en‰‰ koskaan tapaavamme toisiamme, vaan tapasimme
+kuitenkin, ja jos tahdotte kerron teille koko jutun, se on pitk‰
+juttu... Myˆnt‰k‰‰, ett‰ Maksim Maksimovitsh ansaitsee kunnioitusta?
+Jos sen myˆnn‰tte, olen saanut runsaan palkinnon mahdollisesti liian
+pitk‰st‰ kertomuksestani.
+
+
+
+***END OF THE PROJECT GUTENBERG EBOOK BELA***
+
+
+******* This file should be named 54588-8.txt or 54588-8.zip *******
+
+
+This and all associated files of various formats will be found in:
+http://www.gutenberg.org/dirs/5/4/5/8/54588
+
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org 
+
+Section 3. Information about the Project Gutenberg Literary 
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
+
