@@ -1,0 +1,28 @@
+_repo: Bela-Kaukaasialainen-kertomus_54588
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Lermontov, Mikhail Iurevich
+    aliases:
+    - Лермонтов, Михаил Юрьевич
+    - Lermontov, Mikhayil Yurevich
+    birthdate: 1814
+    deathdate: 1841
+    gutenberg_agent_id: '469'
+    url: http://www.gutenberg.org/2009/agents/469
+    wikipedia: http://en.wikipedia.org/wiki/Mikhail_Lermontov
+description: ''
+gutenberg_issued: '2017-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54588'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Bela
+
+  Kaukaasialainen kertomus'
+url: http://www.gutenberg.org/ebooks/54588
